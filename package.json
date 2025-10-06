@@ -1,0 +1,29 @@
+{
+  "name": "ethereum",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy-token": "hardhat run scripts/deployToken.js --network sepolia",
+    "test-response": "hardhat run scripts/testResponseTime.js --network sepolia",
+    "test-gas": "hardhat run scripts/testGasConsumption.js --network sepolia",
+    "export-excel": "node scripts/exportToExcel.js",
+    "test-all": "npm run test-response && npm run test-gas && npm run export-excel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^3.0.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0",
+    "xlsx": "^0.18.5"
+  }
+}
