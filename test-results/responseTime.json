@@ -1,0 +1,1378 @@
+{
+  "level0": [
+    {
+      "txCount": 1,
+      "repetition": 1,
+      "responseTime": 16544
+    },
+    {
+      "txCount": 1,
+      "repetition": 2,
+      "responseTime": 11827
+    },
+    {
+      "txCount": 1,
+      "repetition": 3,
+      "responseTime": 8790
+    },
+    {
+      "txCount": 1,
+      "repetition": 4,
+      "responseTime": 12340
+    },
+    {
+      "txCount": 1,
+      "repetition": 5,
+      "responseTime": 60434
+    },
+    {
+      "txCount": 1,
+      "repetition": 6,
+      "responseTime": 24610
+    },
+    {
+      "txCount": 1,
+      "repetition": 7,
+      "responseTime": 12254
+    },
+    {
+      "txCount": 1,
+      "repetition": 8,
+      "responseTime": 12140
+    },
+    {
+      "txCount": 1,
+      "repetition": 9,
+      "responseTime": 25382
+    },
+    {
+      "txCount": 1,
+      "repetition": 10,
+      "responseTime": 23715
+    },
+    {
+      "txCount": 2,
+      "repetition": 1,
+      "responseTime": 21804
+    },
+    {
+      "txCount": 2,
+      "repetition": 2,
+      "responseTime": 24346
+    },
+    {
+      "txCount": 2,
+      "repetition": 3,
+      "responseTime": 24953
+    },
+    {
+      "txCount": 2,
+      "repetition": 4,
+      "responseTime": 23921
+    },
+    {
+      "txCount": 2,
+      "repetition": 5,
+      "responseTime": 37363
+    },
+    {
+      "txCount": 2,
+      "repetition": 6,
+      "responseTime": 45374
+    },
+    {
+      "txCount": 2,
+      "repetition": 7,
+      "responseTime": 22961
+    },
+    {
+      "txCount": 2,
+      "repetition": 8,
+      "responseTime": 36726
+    },
+    {
+      "txCount": 2,
+      "repetition": 9,
+      "responseTime": 39296
+    },
+    {
+      "txCount": 2,
+      "repetition": 10,
+      "responseTime": 22490
+    },
+    {
+      "txCount": 3,
+      "repetition": 1,
+      "responseTime": 34371
+    },
+    {
+      "txCount": 3,
+      "repetition": 2,
+      "responseTime": 48407
+    },
+    {
+      "txCount": 3,
+      "repetition": 3,
+      "responseTime": 37179
+    },
+    {
+      "txCount": 3,
+      "repetition": 4,
+      "responseTime": 35157
+    },
+    {
+      "txCount": 3,
+      "repetition": 5,
+      "responseTime": 51251
+    },
+    {
+      "txCount": 3,
+      "repetition": 6,
+      "responseTime": 33952
+    },
+    {
+      "txCount": 3,
+      "repetition": 7,
+      "responseTime": 36411
+    },
+    {
+      "txCount": 3,
+      "repetition": 8,
+      "responseTime": 33554
+    },
+    {
+      "txCount": 3,
+      "repetition": 9,
+      "responseTime": 36215
+    },
+    {
+      "txCount": 3,
+      "repetition": 10,
+      "responseTime": 36057
+    },
+    {
+      "txCount": 4,
+      "repetition": 1,
+      "responseTime": 60195
+    },
+    {
+      "txCount": 4,
+      "repetition": 2,
+      "responseTime": 47603
+    },
+    {
+      "txCount": 4,
+      "repetition": 3,
+      "responseTime": 61851
+    },
+    {
+      "txCount": 4,
+      "repetition": 4,
+      "responseTime": 60152
+    },
+    {
+      "txCount": 4,
+      "repetition": 5,
+      "responseTime": 45854
+    },
+    {
+      "txCount": 4,
+      "repetition": 6,
+      "responseTime": 48588
+    },
+    {
+      "txCount": 4,
+      "repetition": 7,
+      "responseTime": 48626
+    },
+    {
+      "txCount": 4,
+      "repetition": 8,
+      "responseTime": 46708
+    },
+    {
+      "txCount": 4,
+      "repetition": 9,
+      "responseTime": 60269
+    },
+    {
+      "txCount": 4,
+      "repetition": 10,
+      "responseTime": 47809
+    },
+    {
+      "txCount": 5,
+      "repetition": 1,
+      "responseTime": 83133
+    },
+    {
+      "txCount": 5,
+      "repetition": 2,
+      "responseTime": 96178
+    },
+    {
+      "txCount": 5,
+      "repetition": 3,
+      "responseTime": 325554
+    },
+    {
+      "txCount": 5,
+      "repetition": 4,
+      "responseTime": 59423
+    },
+    {
+      "txCount": 5,
+      "repetition": 5,
+      "responseTime": 59222
+    },
+    {
+      "txCount": 5,
+      "repetition": 6,
+      "responseTime": 76992
+    },
+    {
+      "txCount": 5,
+      "repetition": 7,
+      "responseTime": 82902
+    },
+    {
+      "txCount": 5,
+      "repetition": 8,
+      "responseTime": 57599
+    },
+    {
+      "txCount": 5,
+      "repetition": 9,
+      "responseTime": 97621
+    },
+    {
+      "txCount": 5,
+      "repetition": 10,
+      "responseTime": 176330
+    },
+    {
+      "txCount": 6,
+      "repetition": 1,
+      "responseTime": 111420
+    },
+    {
+      "txCount": 6,
+      "repetition": 2,
+      "responseTime": 165591
+    },
+    {
+      "txCount": 6,
+      "repetition": 3,
+      "responseTime": 99522
+    },
+    {
+      "txCount": 6,
+      "repetition": 4,
+      "responseTime": 105964
+    },
+    {
+      "txCount": 6,
+      "repetition": 5,
+      "responseTime": 96238
+    },
+    {
+      "txCount": 6,
+      "repetition": 6,
+      "responseTime": 109542
+    },
+    {
+      "txCount": 6,
+      "repetition": 7,
+      "responseTime": 93246
+    },
+    {
+      "txCount": 6,
+      "repetition": 8,
+      "responseTime": 121864
+    },
+    {
+      "txCount": 6,
+      "repetition": 9,
+      "responseTime": 95902
+    },
+    {
+      "txCount": 6,
+      "repetition": 10,
+      "responseTime": 72747
+    },
+    {
+      "txCount": 7,
+      "repetition": 1,
+      "responseTime": 109367
+    },
+    {
+      "txCount": 7,
+      "repetition": 2,
+      "responseTime": 151019
+    },
+    {
+      "txCount": 7,
+      "repetition": 3,
+      "responseTime": 99552
+    },
+    {
+      "txCount": 7,
+      "repetition": 4,
+      "responseTime": 115846
+    },
+    {
+      "txCount": 7,
+      "repetition": 5,
+      "responseTime": 88482
+    },
+    {
+      "txCount": 7,
+      "repetition": 6,
+      "responseTime": 94396
+    },
+    {
+      "txCount": 7,
+      "repetition": 7,
+      "responseTime": 95413
+    },
+    {
+      "txCount": 7,
+      "repetition": 8,
+      "responseTime": 95909
+    },
+    {
+      "txCount": 7,
+      "repetition": 9,
+      "responseTime": 96480
+    },
+    {
+      "txCount": 7,
+      "repetition": 10,
+      "responseTime": 155803
+    },
+    {
+      "txCount": 8,
+      "repetition": 1,
+      "responseTime": 95285
+    },
+    {
+      "txCount": 8,
+      "repetition": 2,
+      "responseTime": 110800
+    },
+    {
+      "txCount": 8,
+      "repetition": 3,
+      "responseTime": 118563
+    },
+    {
+      "txCount": 8,
+      "repetition": 4,
+      "responseTime": 132863
+    },
+    {
+      "txCount": 8,
+      "repetition": 5,
+      "responseTime": 141317
+    },
+    {
+      "txCount": 8,
+      "repetition": 6,
+      "responseTime": 110247
+    },
+    {
+      "txCount": 8,
+      "repetition": 7,
+      "responseTime": 131094
+    },
+    {
+      "txCount": 8,
+      "repetition": 8,
+      "responseTime": 143453
+    },
+    {
+      "txCount": 8,
+      "repetition": 9,
+      "responseTime": 95132
+    },
+    {
+      "txCount": 8,
+      "repetition": 10,
+      "responseTime": 169146
+    },
+    {
+      "txCount": 9,
+      "repetition": 1,
+      "responseTime": 238043
+    },
+    {
+      "txCount": 9,
+      "repetition": 2,
+      "responseTime": 135333
+    },
+    {
+      "txCount": 9,
+      "repetition": 3,
+      "responseTime": 144317
+    },
+    {
+      "txCount": 9,
+      "repetition": 4,
+      "responseTime": 119938
+    },
+    {
+      "txCount": 9,
+      "repetition": 5,
+      "responseTime": 129149
+    },
+    {
+      "txCount": 9,
+      "repetition": 6,
+      "responseTime": 169724
+    },
+    {
+      "txCount": 9,
+      "repetition": 7,
+      "responseTime": 121472
+    },
+    {
+      "txCount": 9,
+      "repetition": 8,
+      "responseTime": 129454
+    },
+    {
+      "txCount": 9,
+      "repetition": 9,
+      "responseTime": 145226
+    },
+    {
+      "txCount": 9,
+      "repetition": 10,
+      "responseTime": 131244
+    },
+    {
+      "txCount": 10,
+      "repetition": 1,
+      "responseTime": 131130
+    },
+    {
+      "txCount": 10,
+      "repetition": 2,
+      "responseTime": 158493
+    },
+    {
+      "txCount": 10,
+      "repetition": 3,
+      "responseTime": 128767
+    },
+    {
+      "txCount": 10,
+      "repetition": 4,
+      "responseTime": 169397
+    },
+    {
+      "txCount": 10,
+      "repetition": 5,
+      "responseTime": 143404
+    },
+    {
+      "txCount": 10,
+      "repetition": 6,
+      "responseTime": 131673
+    },
+    {
+      "txCount": 10,
+      "repetition": 7,
+      "responseTime": 183331
+    },
+    {
+      "txCount": 10,
+      "repetition": 8,
+      "responseTime": 117585
+    },
+    {
+      "txCount": 10,
+      "repetition": 9,
+      "responseTime": 156756
+    },
+    {
+      "txCount": 10,
+      "repetition": 10,
+      "responseTime": 18130577
+    },
+    {
+      "txCount": 11,
+      "repetition": 1,
+      "responseTime": 132288
+    },
+    {
+      "txCount": 11,
+      "repetition": 2,
+      "responseTime": 168157
+    },
+    {
+      "txCount": 11,
+      "repetition": 3,
+      "responseTime": 132907
+    },
+    {
+      "txCount": 11,
+      "repetition": 4,
+      "responseTime": 145752
+    },
+    {
+      "txCount": 11,
+      "repetition": 5,
+      "responseTime": 128554
+    },
+    {
+      "txCount": 11,
+      "repetition": 6,
+      "responseTime": 144705
+    },
+    {
+      "txCount": 11,
+      "repetition": 7,
+      "responseTime": 131697
+    },
+    {
+      "txCount": 11,
+      "repetition": 8,
+      "responseTime": 172342
+    },
+    {
+      "txCount": 11,
+      "repetition": 9,
+      "responseTime": 140361
+    },
+    {
+      "txCount": 11,
+      "repetition": 10,
+      "responseTime": 167326
+    },
+    {
+      "txCount": 12,
+      "repetition": 1,
+      "responseTime": 143890
+    },
+    {
+      "txCount": 12,
+      "repetition": 2,
+      "responseTime": 179266
+    },
+    {
+      "txCount": 12,
+      "repetition": 3,
+      "responseTime": 158098
+    },
+    {
+      "txCount": 12,
+      "repetition": 4,
+      "responseTime": 156138
+    },
+    {
+      "txCount": 12,
+      "repetition": 5,
+      "responseTime": 156707
+    },
+    {
+      "txCount": 12,
+      "repetition": 6,
+      "responseTime": 180177
+    },
+    {
+      "txCount": 12,
+      "repetition": 7,
+      "responseTime": 179035
+    },
+    {
+      "txCount": 12,
+      "repetition": 8,
+      "responseTime": 153818
+    },
+    {
+      "txCount": 12,
+      "repetition": 9,
+      "responseTime": 157998
+    },
+    {
+      "txCount": 12,
+      "repetition": 10,
+      "responseTime": 190300
+    },
+    {
+      "txCount": 13,
+      "repetition": 1,
+      "responseTime": 171888
+    },
+    {
+      "txCount": 13,
+      "repetition": 2,
+      "responseTime": 179126
+    },
+    {
+      "txCount": 13,
+      "repetition": 3,
+      "responseTime": 167586
+    },
+    {
+      "txCount": 13,
+      "repetition": 4,
+      "responseTime": 165691
+    },
+    {
+      "txCount": 13,
+      "repetition": 5,
+      "responseTime": 192313
+    },
+    {
+      "txCount": 13,
+      "repetition": 6,
+      "responseTime": 203406
+    },
+    {
+      "txCount": 13,
+      "repetition": 7,
+      "responseTime": 158014
+    },
+    {
+      "txCount": 13,
+      "repetition": 8,
+      "responseTime": 206787
+    },
+    {
+      "txCount": 13,
+      "repetition": 9,
+      "responseTime": 175565
+    },
+    {
+      "txCount": 13,
+      "repetition": 10,
+      "responseTime": 179665
+    },
+    {
+      "txCount": 14,
+      "repetition": 1,
+      "responseTime": 181873
+    },
+    {
+      "txCount": 14,
+      "repetition": 2,
+      "responseTime": 179104
+    },
+    {
+      "txCount": 14,
+      "repetition": 3,
+      "responseTime": 194867
+    },
+    {
+      "txCount": 14,
+      "repetition": 4,
+      "responseTime": 201278
+    },
+    {
+      "txCount": 14,
+      "repetition": 5,
+      "responseTime": 228144
+    },
+    {
+      "txCount": 14,
+      "repetition": 6,
+      "responseTime": 180155
+    },
+    {
+      "txCount": 14,
+      "repetition": 7,
+      "responseTime": 229105
+    },
+    {
+      "txCount": 14,
+      "repetition": 8,
+      "responseTime": 239919
+    },
+    {
+      "txCount": 14,
+      "repetition": 9,
+      "responseTime": 179583
+    },
+    {
+      "txCount": 14,
+      "repetition": 10,
+      "responseTime": 205164
+    },
+    {
+      "txCount": 15,
+      "repetition": 1,
+      "responseTime": 225900
+    },
+    {
+      "txCount": 15,
+      "repetition": 2,
+      "responseTime": 180833
+    },
+    {
+      "txCount": 15,
+      "repetition": 3,
+      "responseTime": 239560
+    },
+    {
+      "txCount": 15,
+      "repetition": 4,
+      "responseTime": 203865
+    },
+    {
+      "txCount": 15,
+      "repetition": 5,
+      "responseTime": 250921
+    },
+    {
+      "txCount": 15,
+      "repetition": 6,
+      "responseTime": 194367
+    },
+    {
+      "txCount": 15,
+      "repetition": 7,
+      "responseTime": 288447
+    },
+    {
+      "txCount": 15,
+      "repetition": 8,
+      "responseTime": 237189
+    },
+    {
+      "txCount": 15,
+      "repetition": 9,
+      "responseTime": 243078
+    },
+    {
+      "txCount": 15,
+      "repetition": 10,
+      "responseTime": 249498
+    },
+    {
+      "txCount": 16,
+      "repetition": 1,
+      "responseTime": 228763
+    },
+    {
+      "txCount": 16,
+      "repetition": 2,
+      "responseTime": 232052
+    },
+    {
+      "txCount": 16,
+      "repetition": 3,
+      "responseTime": 226466
+    },
+    {
+      "txCount": 16,
+      "repetition": 4,
+      "responseTime": 224155
+    },
+    {
+      "txCount": 16,
+      "repetition": 5,
+      "responseTime": 315122
+    },
+    {
+      "txCount": 16,
+      "repetition": 6,
+      "responseTime": 213246
+    },
+    {
+      "txCount": 16,
+      "repetition": 7,
+      "responseTime": 230457
+    },
+    {
+      "txCount": 16,
+      "repetition": 8,
+      "responseTime": 254912
+    },
+    {
+      "txCount": 16,
+      "repetition": 9,
+      "responseTime": 223754
+    },
+    {
+      "txCount": 16,
+      "repetition": 10,
+      "responseTime": 239488
+    },
+    {
+      "txCount": 17,
+      "repetition": 1,
+      "responseTime": 264666
+    },
+    {
+      "txCount": 17,
+      "repetition": 2,
+      "responseTime": 276165
+    },
+    {
+      "txCount": 17,
+      "repetition": 3,
+      "responseTime": 336402
+    },
+    {
+      "txCount": 17,
+      "repetition": 4,
+      "responseTime": 264181
+    },
+    {
+      "txCount": 17,
+      "repetition": 5,
+      "responseTime": 273127
+    },
+    {
+      "txCount": 17,
+      "repetition": 6,
+      "responseTime": 280147
+    },
+    {
+      "txCount": 17,
+      "repetition": 7,
+      "responseTime": 347228
+    },
+    {
+      "txCount": 17,
+      "repetition": 8,
+      "responseTime": 237473
+    },
+    {
+      "txCount": 17,
+      "repetition": 9,
+      "responseTime": 229061
+    },
+    {
+      "txCount": 17,
+      "repetition": 10,
+      "responseTime": 253383
+    },
+    {
+      "txCount": 18,
+      "repetition": 1,
+      "responseTime": 265221
+    },
+    {
+      "txCount": 18,
+      "repetition": 3,
+      "responseTime": 300908
+    },
+    {
+      "txCount": 18,
+      "repetition": 4,
+      "responseTime": 248344
+    },
+    {
+      "txCount": 18,
+      "repetition": 5,
+      "responseTime": 265367
+    },
+    {
+      "txCount": 18,
+      "repetition": 6,
+      "responseTime": 358164
+    },
+    {
+      "txCount": 18,
+      "repetition": 7,
+      "responseTime": 275469
+    },
+    {
+      "txCount": 18,
+      "repetition": 8,
+      "responseTime": 277894
+    },
+    {
+      "txCount": 18,
+      "repetition": 9,
+      "responseTime": 251601
+    },
+    {
+      "txCount": 18,
+      "repetition": 10,
+      "responseTime": 241836
+    },
+    {
+      "txCount": 19,
+      "repetition": 1,
+      "responseTime": 263602
+    },
+    {
+      "txCount": 19,
+      "repetition": 2,
+      "responseTime": 286555
+    },
+    {
+      "txCount": 19,
+      "repetition": 3,
+      "responseTime": 322918
+    },
+    {
+      "txCount": 19,
+      "repetition": 4,
+      "responseTime": 279570
+    },
+    {
+      "txCount": 19,
+      "repetition": 5,
+      "responseTime": 323371
+    },
+    {
+      "txCount": 19,
+      "repetition": 6,
+      "responseTime": 250792
+    },
+    {
+      "txCount": 19,
+      "repetition": 7,
+      "responseTime": 240739
+    },
+    {
+      "txCount": 19,
+      "repetition": 8,
+      "responseTime": 262959
+    },
+    {
+      "txCount": 19,
+      "repetition": 9,
+      "responseTime": 276360
+    },
+    {
+      "txCount": 19,
+      "repetition": 10,
+      "responseTime": 263469
+    },
+    {
+      "txCount": 20,
+      "repetition": 1,
+      "responseTime": 275472
+    },
+    {
+      "txCount": 20,
+      "repetition": 2,
+      "responseTime": 288801
+    },
+    {
+      "txCount": 20,
+      "repetition": 3,
+      "responseTime": 263628
+    },
+    {
+      "txCount": 20,
+      "repetition": 4,
+      "responseTime": 252566
+    },
+    {
+      "txCount": 20,
+      "repetition": 5,
+      "responseTime": 251067
+    },
+    {
+      "txCount": 20,
+      "repetition": 6,
+      "responseTime": 266803
+    },
+    {
+      "txCount": 20,
+      "repetition": 7,
+      "responseTime": 296243
+    },
+    {
+      "txCount": 20,
+      "repetition": 8,
+      "responseTime": 268512
+    },
+    {
+      "txCount": 20,
+      "repetition": 9,
+      "responseTime": 297803
+    },
+    {
+      "txCount": 20,
+      "repetition": 10,
+      "responseTime": 286879
+    }
+  ],
+  "level1": [
+    {
+      "txCount": 1,
+      "repetition": 1,
+      "responseTime": 12949
+    },
+    {
+      "txCount": 1,
+      "repetition": 2,
+      "responseTime": 13635
+    },
+    {
+      "txCount": 1,
+      "repetition": 3,
+      "responseTime": 9080
+    },
+    {
+      "txCount": 1,
+      "repetition": 4,
+      "responseTime": 12817
+    },
+    {
+      "txCount": 1,
+      "repetition": 5,
+      "responseTime": 12764
+    },
+    {
+      "txCount": 1,
+      "repetition": 6,
+      "responseTime": 21539
+    },
+    {
+      "txCount": 1,
+      "repetition": 7,
+      "responseTime": 39979
+    },
+    {
+      "txCount": 1,
+      "repetition": 8,
+      "responseTime": 8988
+    },
+    {
+      "txCount": 1,
+      "repetition": 9,
+      "responseTime": 12505
+    },
+    {
+      "txCount": 1,
+      "repetition": 10,
+      "responseTime": 12807
+    },
+    {
+      "txCount": 2,
+      "repetition": 1,
+      "responseTime": 34844
+    },
+    {
+      "txCount": 2,
+      "repetition": 2,
+      "responseTime": 26378
+    },
+    {
+      "txCount": 2,
+      "repetition": 3,
+      "responseTime": 47548
+    },
+    {
+      "txCount": 2,
+      "repetition": 4,
+      "responseTime": 49170
+    },
+    {
+      "txCount": 2,
+      "repetition": 5,
+      "responseTime": 35694
+    },
+    {
+      "txCount": 2,
+      "repetition": 6,
+      "responseTime": 32547
+    },
+    {
+      "txCount": 2,
+      "repetition": 7,
+      "responseTime": 36412
+    },
+    {
+      "txCount": 2,
+      "repetition": 8,
+      "responseTime": 23556
+    },
+    {
+      "txCount": 2,
+      "repetition": 9,
+      "responseTime": 62675
+    },
+    {
+      "txCount": 2,
+      "repetition": 10,
+      "responseTime": 48909
+    },
+    {
+      "txCount": 3,
+      "repetition": 1,
+      "responseTime": 35425
+    },
+    {
+      "txCount": 3,
+      "repetition": 2,
+      "responseTime": 58137
+    },
+    {
+      "txCount": 3,
+      "repetition": 3,
+      "responseTime": 34963
+    },
+    {
+      "txCount": 3,
+      "repetition": 4,
+      "responseTime": 40902
+    },
+    {
+      "txCount": 3,
+      "repetition": 5,
+      "responseTime": 34132
+    },
+    {
+      "txCount": 3,
+      "repetition": 6,
+      "responseTime": 45921
+    },
+    {
+      "txCount": 3,
+      "repetition": 7,
+      "responseTime": 34616
+    },
+    {
+      "txCount": 3,
+      "repetition": 8,
+      "responseTime": 47370
+    },
+    {
+      "txCount": 3,
+      "repetition": 9,
+      "responseTime": 38560
+    },
+    {
+      "txCount": 3,
+      "repetition": 10,
+      "responseTime": 35040
+    },
+    {
+      "txCount": 4,
+      "repetition": 1,
+      "responseTime": 61228
+    },
+    {
+      "txCount": 4,
+      "repetition": 2,
+      "responseTime": 51519
+    },
+    {
+      "txCount": 4,
+      "repetition": 3,
+      "responseTime": 69139
+    },
+    {
+      "txCount": 4,
+      "repetition": 4,
+      "responseTime": 47352
+    },
+    {
+      "txCount": 4,
+      "repetition": 5,
+      "responseTime": 61310
+    },
+    {
+      "txCount": 4,
+      "repetition": 6,
+      "responseTime": 71044
+    },
+    {
+      "txCount": 4,
+      "repetition": 7,
+      "responseTime": 61104
+    },
+    {
+      "txCount": 4,
+      "repetition": 8,
+      "responseTime": 46250
+    },
+    {
+      "txCount": 4,
+      "repetition": 9,
+      "responseTime": 46896
+    },
+    {
+      "txCount": 4,
+      "repetition": 10,
+      "responseTime": 60543
+    },
+    {
+      "txCount": 5,
+      "repetition": 1,
+      "responseTime": 74857
+    },
+    {
+      "txCount": 5,
+      "repetition": 2,
+      "responseTime": 154228
+    },
+    {
+      "txCount": 5,
+      "repetition": 3,
+      "responseTime": 96680
+    },
+    {
+      "txCount": 5,
+      "repetition": 4,
+      "responseTime": 68727
+    },
+    {
+      "txCount": 5,
+      "repetition": 5,
+      "responseTime": 88319
+    },
+    {
+      "txCount": 5,
+      "repetition": 6,
+      "responseTime": 92599
+    },
+    {
+      "txCount": 5,
+      "repetition": 7,
+      "responseTime": 73313
+    },
+    {
+      "txCount": 5,
+      "repetition": 8,
+      "responseTime": 60748
+    },
+    {
+      "txCount": 5,
+      "repetition": 9,
+      "responseTime": 59731
+    },
+    {
+      "txCount": 5,
+      "repetition": 10,
+      "responseTime": 83002
+    },
+    {
+      "txCount": 6,
+      "repetition": 1,
+      "responseTime": 85707
+    },
+    {
+      "txCount": 6,
+      "repetition": 2,
+      "responseTime": 69589
+    },
+    {
+      "txCount": 6,
+      "repetition": 3,
+      "responseTime": 72861
+    },
+    {
+      "txCount": 6,
+      "repetition": 4,
+      "responseTime": 85475
+    },
+    {
+      "txCount": 6,
+      "repetition": 5,
+      "responseTime": 93015
+    },
+    {
+      "txCount": 6,
+      "repetition": 6,
+      "responseTime": 85677
+    },
+    {
+      "txCount": 6,
+      "repetition": 7,
+      "responseTime": 108099
+    },
+    {
+      "txCount": 6,
+      "repetition": 8,
+      "responseTime": 73646
+    },
+    {
+      "txCount": 6,
+      "repetition": 9,
+      "responseTime": 104692
+    },
+    {
+      "txCount": 6,
+      "repetition": 10,
+      "responseTime": 87192
+    },
+    {
+      "txCount": 7,
+      "repetition": 1,
+      "responseTime": 81976
+    },
+    {
+      "txCount": 7,
+      "repetition": 2,
+      "responseTime": 130682
+    },
+    {
+      "txCount": 7,
+      "repetition": 3,
+      "responseTime": 95189
+    },
+    {
+      "txCount": 7,
+      "repetition": 4,
+      "responseTime": 98106
+    },
+    {
+      "txCount": 7,
+      "repetition": 5,
+      "responseTime": 119924
+    },
+    {
+      "txCount": 7,
+      "repetition": 6,
+      "responseTime": 203931
+    },
+    {
+      "txCount": 7,
+      "repetition": 7,
+      "responseTime": 134413
+    },
+    {
+      "txCount": 7,
+      "repetition": 8,
+      "responseTime": 80835
+    },
+    {
+      "txCount": 7,
+      "repetition": 9,
+      "responseTime": 95073
+    },
+    {
+      "txCount": 8,
+      "repetition": 1,
+      "responseTime": 109194
+    },
+    {
+      "txCount": 8,
+      "repetition": 2,
+      "responseTime": 105759
+    },
+    {
+      "txCount": 8,
+      "repetition": 3,
+      "responseTime": 107706
+    },
+    {
+      "txCount": 8,
+      "repetition": 4,
+      "responseTime": 145738
+    },
+    {
+      "txCount": 8,
+      "repetition": 5,
+      "responseTime": 116957
+    },
+    {
+      "txCount": 8,
+      "repetition": 6,
+      "responseTime": 107308
+    }
+  ],
+  "level2": [],
+  "level3": []
+}

@@ -10,7 +10,8 @@
     "test-response": "hardhat run scripts/testResponseTime.js --network sepolia",
     "test-gas": "hardhat run scripts/testGasConsumption.js --network sepolia",
     "export-excel": "node scripts/exportToExcel.js",
-    "test-all": "npm run test-response && npm run test-gas && npm run export-excel"
+    "test-all": "node scripts/runAllTests.js",
+    "test-all-old": "npm run test-response && npm run test-gas && npm run export-excel"
   },
   "keywords": [],
   "author": "",

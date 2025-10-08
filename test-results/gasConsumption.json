@@ -1,0 +1,22 @@
+{
+  "level0": {
+    "transactions": [],
+    "totalGas": 0,
+    "avgGas": null
+  },
+  "level1": {
+    "transactions": [],
+    "totalGas": 0,
+    "avgGas": null
+  },
+  "level2": {
+    "transactions": [],
+    "totalGas": 0,
+    "avgGas": null
+  },
+  "level3": {
+    "transactions": [],
+    "totalGas": 0,
+    "avgGas": null
+  }
+}

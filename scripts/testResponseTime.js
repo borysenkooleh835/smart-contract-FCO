@@ -36,8 +36,9 @@ async function main() {
 
   // Test parameters
   const levels = [0, 1, 2, 3];
-  const txCounts = Array.from({ length: 20 }, (_, i) => i + 1);
-  const repetitions = 10;
+  const maxTx = parseInt(process.env.RESPONSE_TIME_MAX_TX) || 20;
+  const txCounts = Array.from({ length: maxTx }, (_, i) => i + 1);
+  const repetitions = parseInt(process.env.RESPONSE_TIME_REPETITIONS) || 10;
 
   const results = {
     level0: [],
