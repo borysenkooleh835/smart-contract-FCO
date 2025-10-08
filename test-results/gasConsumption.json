@@ -1,22 +1,2026 @@
 {
   "level0": {
-    "transactions": [],
-    "totalGas": 0,
-    "avgGas": null
+    "transactions": [
+      {
+        "txNumber": 1,
+        "gasUsed": 469569,
+        "txHash": "0xa92c42e8410b5a96824d6f1d00eaf779948952a3c2b43632020fc220f2965642"
+      },
+      {
+        "txNumber": 2,
+        "gasUsed": 468065,
+        "txHash": "0x2cfd4152dc5d410b2559103aabbe6067e1cf007f95867d4f254eb86340a3f9b1"
+      },
+      {
+        "txNumber": 3,
+        "gasUsed": 469569,
+        "txHash": "0xe63421e7f7307d8d325e4c361d9cfbf8980e1b2a637643cd991dd9a5d70f39f8"
+      },
+      {
+        "txNumber": 4,
+        "gasUsed": 469569,
+        "txHash": "0x89e9623d723c95a67ce5898c80dfd7cb9fc8d48bafab2683fdb4ebd056e6b7b6"
+      },
+      {
+        "txNumber": 5,
+        "gasUsed": 469569,
+        "txHash": "0x03d201a49327e919339f13c7b5b67b4456baf7f857dc37cff5146b2c2ba9c1f9"
+      },
+      {
+        "txNumber": 6,
+        "gasUsed": 468065,
+        "txHash": "0x05e1df119ca32e6634d361d6e26946ef0a8ae936a267ac1ece004e23af7a84a3"
+      },
+      {
+        "txNumber": 7,
+        "gasUsed": 469569,
+        "txHash": "0xbf6896e1aaae056d181335710027256f73efc5d301b1f7335db2de971143afb1"
+      },
+      {
+        "txNumber": 8,
+        "gasUsed": 469569,
+        "txHash": "0xa7686696c26929d54354c3bcda2c94ec1f8c32e301e3051471aef3638425d513"
+      },
+      {
+        "txNumber": 9,
+        "gasUsed": 469569,
+        "txHash": "0x924a217a7f07ff4098f839cd3e413719fbd83ee0e5c35fd972b1f6a663f985d3"
+      },
+      {
+        "txNumber": 10,
+        "gasUsed": 468065,
+        "txHash": "0x340c7de0970925d6f92b62b9a46907f031c3bc255b0206b282caab5abaa8445a"
+      },
+      {
+        "txNumber": 11,
+        "gasUsed": 469569,
+        "txHash": "0xe5da4a8c0be5af3111eaccfb702c1bc5f5a141ea412a19a5a04ac93bc55a88ad"
+      },
+      {
+        "txNumber": 12,
+        "gasUsed": 469569,
+        "txHash": "0xe74cef873c1869ef45beb659d7c6486f65138fdfd6747de6ae79ffcfc518eeb7"
+      },
+      {
+        "txNumber": 13,
+        "gasUsed": 469569,
+        "txHash": "0xdd385f349ee0a907cf3ccf8708ed2fe575323c98ea9386c09964d8e6d0eed942"
+      },
+      {
+        "txNumber": 14,
+        "gasUsed": 469569,
+        "txHash": "0xecf0d3ac18ccab66aa5f62a8bae531560d9b4eb02736f36d7d586aa3fb9ad093"
+      },
+      {
+        "txNumber": 15,
+        "gasUsed": 469569,
+        "txHash": "0x2644787a0c838b4c6468b1b011da46e95ae1473b994aa37717e32256fd21c711"
+      },
+      {
+        "txNumber": 16,
+        "gasUsed": 469569,
+        "txHash": "0x217696127b129d6f3f10d68561e60bc4af74ec457b526a55ddc23e87cc20cb9c"
+      },
+      {
+        "txNumber": 17,
+        "gasUsed": 469569,
+        "txHash": "0x0950cb100907cb7ca1ebf78aafddc6d83d0cf1b6605a653d1a72627e9be4dd23"
+      },
+      {
+        "txNumber": 18,
+        "gasUsed": 468065,
+        "txHash": "0xaf1ab0259cf03aa7a810737b4bf20ef8c6579524d89683317a6e475dcd8e4e06"
+      },
+      {
+        "txNumber": 19,
+        "gasUsed": 469569,
+        "txHash": "0xf92918d8072abb9ccb0c4277f6ab0f7747f7507e7020518f89a44b5f753419a7"
+      },
+      {
+        "txNumber": 20,
+        "gasUsed": 468065,
+        "txHash": "0x213a0ed6ac61f2f3a645061c4bdd51020cb8e8c51afa5b73461cf09e6676fa81"
+      },
+      {
+        "txNumber": 21,
+        "gasUsed": 469569,
+        "txHash": "0xe843c8a0bdaab6dba12a88ba937b145b0a967fb9292c31215573d2de428ae3ea"
+      },
+      {
+        "txNumber": 22,
+        "gasUsed": 469569,
+        "txHash": "0x3fc68f873b003e1fa63ddc648dd159a40a83ebefc7087a4c05e9647dc04dda7f"
+      },
+      {
+        "txNumber": 23,
+        "gasUsed": 469569,
+        "txHash": "0x59cfdf10c10349790e87a13e7a2c88dd1d45ff48ee5af35d3ffac4155fe74751"
+      },
+      {
+        "txNumber": 24,
+        "gasUsed": 469569,
+        "txHash": "0x1c8ee4f235f3870af2ba44ec8fb3cc3eed762f5b337dcdc47edbee441154b162"
+      },
+      {
+        "txNumber": 25,
+        "gasUsed": 469569,
+        "txHash": "0xf67d7e55926e91d9d809086915a2c7334d372dad370240da36d151f0e38d2576"
+      },
+      {
+        "txNumber": 26,
+        "gasUsed": 466561,
+        "txHash": "0x71faa1413b79fe4c7347dc1dbc975369eea1fbb3d91949dc1f2db2cf6b109366"
+      },
+      {
+        "txNumber": 27,
+        "gasUsed": 468065,
+        "txHash": "0xcd073aeef4734c22f2e68f63d8222e5850810f5763f6444c6f7edf90c9c73de9"
+      },
+      {
+        "txNumber": 28,
+        "gasUsed": 468065,
+        "txHash": "0x793f46a805dd736e8d8b8a956a9741906bda92a318d558ccfbf1b0e9e64564b9"
+      },
+      {
+        "txNumber": 29,
+        "gasUsed": 468065,
+        "txHash": "0xc51e40c686c486fbdd504f670d5a897aabbdb70d564777d02af31ae968879fd3"
+      },
+      {
+        "txNumber": 30,
+        "gasUsed": 468065,
+        "txHash": "0x59b32f4c34d2512e89c8de329072b082eaee6dbfc52c92f55308bd6551deff29"
+      },
+      {
+        "txNumber": 31,
+        "gasUsed": 467497,
+        "txHash": "0xb523fefb22e94589134c5195375d0c53353aad2bb5813f0476e7aa7439ba6607"
+      },
+      {
+        "txNumber": 32,
+        "gasUsed": 469001,
+        "txHash": "0xfd4e6c263e20b2af5ced191fdb25f552f44b9c6a1ae844c2da72e2a4748f8a8f"
+      },
+      {
+        "txNumber": 33,
+        "gasUsed": 469001,
+        "txHash": "0x959395c84b22dc8bc2784f5ad380c3a84592b15ea1ab7d04ae24eb1c458c76d2"
+      },
+      {
+        "txNumber": 34,
+        "gasUsed": 467497,
+        "txHash": "0x906c71ba3bcb8b5e6719c32182195290c0b681e41b66f22af5fe316d2c137040"
+      },
+      {
+        "txNumber": 35,
+        "gasUsed": 469001,
+        "txHash": "0x0944ed865b4a97060fce5285d7199332d1305734c590e9310899e3fdd21fa351"
+      },
+      {
+        "txNumber": 36,
+        "gasUsed": 469001,
+        "txHash": "0x362859f2274885a2387a67795689dd1081ea39d95468448485b6a339d746286b"
+      },
+      {
+        "txNumber": 37,
+        "gasUsed": 469001,
+        "txHash": "0xc817e20f2f8a90d17fc68455442cfb5d3826d99db9bd502d75a6c728204336c1"
+      },
+      {
+        "txNumber": 38,
+        "gasUsed": 467497,
+        "txHash": "0x9b2a401fd76f50c19c8eeed8115114e1528369cc95bae1744958798c177a5251"
+      },
+      {
+        "txNumber": 39,
+        "gasUsed": 469001,
+        "txHash": "0x04f83bae1bbf9f1ba571368c778c6f12ec87235db010d4b0b0001a87aefd739a"
+      },
+      {
+        "txNumber": 40,
+        "gasUsed": 469001,
+        "txHash": "0x255e55c5c81050ef53eb4be9302d78db56b0712a7a684e0d956cab8754104ff1"
+      },
+      {
+        "txNumber": 41,
+        "gasUsed": 469001,
+        "txHash": "0xeb88f9cb3659cf7cb7f2f9b7b88ed2ce3b684ac9ea22a572bf7f20af761903fa"
+      },
+      {
+        "txNumber": 42,
+        "gasUsed": 469001,
+        "txHash": "0x36ecdd542b4d03f3f4887afa9ead7e13f153c486a72164244a2712e7827ef44f"
+      },
+      {
+        "txNumber": 43,
+        "gasUsed": 467497,
+        "txHash": "0x63a90076ea48fd428a610310e7d4f9f9c46002f04419327d2255a7e80a80e8b4"
+      },
+      {
+        "txNumber": 44,
+        "gasUsed": 469001,
+        "txHash": "0x0eab956d81fd4446adf29d4c54a38924d723fad213af0637a43faae1dbdd0fda"
+      },
+      {
+        "txNumber": 45,
+        "gasUsed": 469001,
+        "txHash": "0x4fec555ef26acc66317b4a3f4606c4d160583271cc56393f4dc077464140ceaf"
+      },
+      {
+        "txNumber": 46,
+        "gasUsed": 469001,
+        "txHash": "0x2d5b29729fcaa16c0771b0ce80a658fdb0b1fbda71371d1ea5195fd5614dd547"
+      },
+      {
+        "txNumber": 47,
+        "gasUsed": 469001,
+        "txHash": "0x4a05815cd3c72d9c0f31b881b6c6199c55827e8b951be8e0edf7b16bcd0685bf"
+      },
+      {
+        "txNumber": 48,
+        "gasUsed": 467497,
+        "txHash": "0x2ebc1e4b4a952fc14e5890349dcc85bef5ae02d4f4137d5b5d4a68e7fbdb2ce6"
+      },
+      {
+        "txNumber": 49,
+        "gasUsed": 469001,
+        "txHash": "0xb75cd817d25e3c67b7a4180e2f8838f1b8f22cf55f8335cef5a3618c4a455721"
+      },
+      {
+        "txNumber": 50,
+        "gasUsed": 469001,
+        "txHash": "0x3f6960d763204ad47376fc852335d3fb7babb98c94a535f9c6bf5992b037f200"
+      },
+      {
+        "txNumber": 51,
+        "gasUsed": 469001,
+        "txHash": "0x2d85c85d496258ea5850ff15c77f99492c517e7b04c295b99b2b2279988a2378"
+      },
+      {
+        "txNumber": 52,
+        "gasUsed": 469001,
+        "txHash": "0x2a30fe1b159489d3a83601d6f88853c5c3a0fc9f481c85cba19f3adfa81c92c4"
+      },
+      {
+        "txNumber": 53,
+        "gasUsed": 467497,
+        "txHash": "0x6a7ce4a1ceccd011a1d419312d0b2b987611c8267506c62a4f6a13f143b7bdcf"
+      },
+      {
+        "txNumber": 54,
+        "gasUsed": 469001,
+        "txHash": "0xfe57fcdaaaabeeb29923d55d40d9b2ae0cfdcd8b42a06c3cd40f0bebd5e8f38d"
+      },
+      {
+        "txNumber": 55,
+        "gasUsed": 469001,
+        "txHash": "0xe41a400159646999260e749aa128515636d0ee1c1df89593d09b1b4b88b2d69d"
+      },
+      {
+        "txNumber": 56,
+        "gasUsed": 469001,
+        "txHash": "0x4d30ab76f6b24ce7418e99f9395d84c4a9071fea77c9b5ecee46551f080e4a6f"
+      },
+      {
+        "txNumber": 57,
+        "gasUsed": 469001,
+        "txHash": "0x30ecf70a59635adf5213ddba2b630617588e56e31044fd3fd0964b548c72da4d"
+      },
+      {
+        "txNumber": 58,
+        "gasUsed": 469001,
+        "txHash": "0x53f172af9fcad9bf9cf56d865d9981ade21571195a7351254ca43d8da0fbbe0e"
+      },
+      {
+        "txNumber": 59,
+        "gasUsed": 469001,
+        "txHash": "0xf7bde4e08c87473e2184ef424dd849fc7b308b0f832bf8f1cea3bdf846c0f248"
+      },
+      {
+        "txNumber": 60,
+        "gasUsed": 467497,
+        "txHash": "0x766b0f10537574cfe2cbcf1c7ebfd599e714e959ffc9ec7bcd59c7c783c96893"
+      },
+      {
+        "txNumber": 61,
+        "gasUsed": 469001,
+        "txHash": "0x5cc73ea691132bb838fd618dcda3aa0e71ad04606f21ca3e1d37f0a8b940293c"
+      },
+      {
+        "txNumber": 62,
+        "gasUsed": 469001,
+        "txHash": "0xfc552bc193c27baa4ff1027bff6c9815e8874f5f1a1ddec333b4709f907b6a8e"
+      },
+      {
+        "txNumber": 63,
+        "gasUsed": 467497,
+        "txHash": "0x102a65d1a580d76f690d5fcabe38d003a1ecc532965ad6bb0595ab2f71e35df4"
+      },
+      {
+        "txNumber": 64,
+        "gasUsed": 469001,
+        "txHash": "0x4b57ce08c58340a683c71409c5b312c9fa57fbeeb4733cbc7779cc7c6394dc6c"
+      },
+      {
+        "txNumber": 65,
+        "gasUsed": 469001,
+        "txHash": "0x7822f5e8d1818e9b22be10ebe867bf800ae8bcb7251b51690219dad7f070be3c"
+      },
+      {
+        "txNumber": 66,
+        "gasUsed": 469001,
+        "txHash": "0xfdd3a37e3b7d6cc26b4c0f6fd529a15adda53f9078f2533560e1d604932cbe71"
+      },
+      {
+        "txNumber": 67,
+        "gasUsed": 469001,
+        "txHash": "0x5f22c8f0fddcb3ed9563fd46f75f63d6c706180c3acd524175c336fc873b7aa4"
+      },
+      {
+        "txNumber": 68,
+        "gasUsed": 468065,
+        "txHash": "0xc07871466fba8728a86a545a750d8ce974b5a954c48ffd3688660dea30d23613"
+      },
+      {
+        "txNumber": 69,
+        "gasUsed": 469569,
+        "txHash": "0xf82c97c8c49da035b3adbc60bb90547983c53fb1abec3e99153e2231ed2977fc"
+      },
+      {
+        "txNumber": 70,
+        "gasUsed": 469569,
+        "txHash": "0x10c049a5c58717a3aa54707d4239fb6f0ff6a886a274d4e5a0997d46a864d786"
+      },
+      {
+        "txNumber": 71,
+        "gasUsed": 469569,
+        "txHash": "0x5788a6a97a84806fb450565db05342fe013bfb584e1bcc2aadfc2c76744f03a8"
+      },
+      {
+        "txNumber": 72,
+        "gasUsed": 469569,
+        "txHash": "0x2e42dbefb3b1144398d05964c0ce102a553fdd4c25714ed1f44e3e25872df783"
+      },
+      {
+        "txNumber": 73,
+        "gasUsed": 468065,
+        "txHash": "0xb76cb09e712f8aef4016af1d073b7dd67ad0650859d0301eb2b35d0123d936c4"
+      },
+      {
+        "txNumber": 74,
+        "gasUsed": 469569,
+        "txHash": "0xbdf20e6ea7d2af7d5799c4dd75484859096f558ccead01a05d56a73cff5a4f7d"
+      },
+      {
+        "txNumber": 75,
+        "gasUsed": 469569,
+        "txHash": "0xc99ecdc230cad88facab8cead007368d61d96daaf95b462c933b098bd0361687"
+      },
+      {
+        "txNumber": 76,
+        "gasUsed": 469569,
+        "txHash": "0xc4c8ef3eb09faaff585f46622cd3d33f4e98617c9b7093ca4d4baee31ace9632"
+      },
+      {
+        "txNumber": 77,
+        "gasUsed": 468065,
+        "txHash": "0x2c55079540a35319cf724c28261af9ed5ff21b485547dbcda130333924a115bc"
+      },
+      {
+        "txNumber": 78,
+        "gasUsed": 469569,
+        "txHash": "0x22a97864c6353b9c7254fc1ec53482481dbd06f0500490ac5efa8d8f948a850c"
+      },
+      {
+        "txNumber": 79,
+        "gasUsed": 469569,
+        "txHash": "0x481a75fa031622ad03c57edc39d3a9257d13ca437e59d8a65cf87a1ace15120d"
+      },
+      {
+        "txNumber": 80,
+        "gasUsed": 469569,
+        "txHash": "0x2f654f42ad09fa33e5066fa8d248791343cbb285efa7ed1c12604858d645ce22"
+      },
+      {
+        "txNumber": 81,
+        "gasUsed": 468065,
+        "txHash": "0x187a922ad1b1c1d724bb411b99e1ea344d5990a47956bd710f372b19d9cd6b10"
+      },
+      {
+        "txNumber": 82,
+        "gasUsed": 469569,
+        "txHash": "0x52bd43fa72b5343223cfbe9399863db02eb234ed77b932e6b3887684b70cb5c0"
+      },
+      {
+        "txNumber": 83,
+        "gasUsed": 469569,
+        "txHash": "0x1162b59a948010280cd8175a6aa8e369a8d188efff50af9b792cfc2793857d63"
+      },
+      {
+        "txNumber": 84,
+        "gasUsed": 469569,
+        "txHash": "0xf7e3e44e6cbcc68ecaf5fc073137b91b02a08bcbb57ecb0583e9b8ab3f03cb21"
+      },
+      {
+        "txNumber": 85,
+        "gasUsed": 469569,
+        "txHash": "0x991c6635d27a5f917e989ff10bd7b11417ea678ecc9012f375bdb1e978909861"
+      },
+      {
+        "txNumber": 86,
+        "gasUsed": 468065,
+        "txHash": "0xfee0969af36d6b0a2dbd6a8c0ac0bcb5a38649bc4eda4597870e5459b1de4c55"
+      },
+      {
+        "txNumber": 87,
+        "gasUsed": 469569,
+        "txHash": "0xc9791572f9ca3e02ae41aba56275f1dc18d4be82754abebefa97894b2cefb957"
+      },
+      {
+        "txNumber": 88,
+        "gasUsed": 469569,
+        "txHash": "0x16d5a61115d63a66754bbac18c244b253cf66bebba8d21a9cfa1f735bff270f9"
+      },
+      {
+        "txNumber": 89,
+        "gasUsed": 469569,
+        "txHash": "0xb5c12c876ba645c0a917583ec46e9cc78e5f6b3225c3088e526180b3e614a63f"
+      },
+      {
+        "txNumber": 90,
+        "gasUsed": 469569,
+        "txHash": "0xb4e6e6d6f73a2b7769151bdf4150a9c46d9d0cc0a56dff57810425f0fea20fc5"
+      },
+      {
+        "txNumber": 91,
+        "gasUsed": 469569,
+        "txHash": "0x64ea6d149da5eee1a274dbc30ec9ce1006ce6675bf09d29f6df17ec094cb2acb"
+      },
+      {
+        "txNumber": 92,
+        "gasUsed": 468065,
+        "txHash": "0x7493cc484daab48816a711aac97ec438af8f3af10c24a50809efc27828042d4a"
+      },
+      {
+        "txNumber": 93,
+        "gasUsed": 469569,
+        "txHash": "0x0120261ffbb62c6d1d0e0c813046b4247423edd8e9b71968b1ee96c54a4d0444"
+      },
+      {
+        "txNumber": 94,
+        "gasUsed": 469569,
+        "txHash": "0x69668000c7ffe0b848013fc644bb334f205ed241087e4d495e3d06c6c42fa6bb"
+      },
+      {
+        "txNumber": 95,
+        "gasUsed": 468065,
+        "txHash": "0xafb050caac5d73add496df714ce85fc2e244fc189253df1b538cef35f57de7ca"
+      },
+      {
+        "txNumber": 96,
+        "gasUsed": 469569,
+        "txHash": "0xabefc998c6f51bd66ee94dc30d5022e856eaa9f6ccd8fb97c1de126590ae7578"
+      },
+      {
+        "txNumber": 97,
+        "gasUsed": 469569,
+        "txHash": "0x62326e2934070ee83a26766cb19f8244ef2e668faf9e9b26b0d244108146fc0d"
+      },
+      {
+        "txNumber": 98,
+        "gasUsed": 469569,
+        "txHash": "0x3f56e575f6386e5294b25953e9c5195c12bfd17063b4812f7ed7b71b6ffce181"
+      },
+      {
+        "txNumber": 99,
+        "gasUsed": 469569,
+        "txHash": "0x21417ac7a31cda33ddca1fab071289f7aa84709db622c4fd95831e2cd3b816a0"
+      },
+      {
+        "txNumber": 100,
+        "gasUsed": 468065,
+        "txHash": "0xc63f1a17d4a865003926a0d5b757a2ee2056ee7373b8d4698a4f61d47aef772c"
+      }
+    ],
+    "totalGas": 46895276,
+    "avgGas": 468952.76
   },
   "level1": {
-    "transactions": [],
-    "totalGas": 0,
-    "avgGas": null
+    "transactions": [
+      {
+        "txNumber": 1,
+        "gasUsed": 473129,
+        "txHash": "0xabb27464c2b377b61c6f89f2fe77078502118d09cf70c4c4270c544901bc9cbf"
+      },
+      {
+        "txNumber": 2,
+        "gasUsed": 473129,
+        "txHash": "0x0c71bcf2049f3007d9b26638103dca444283fb39c84a13e174fb643dd3e295aa"
+      },
+      {
+        "txNumber": 3,
+        "gasUsed": 471625,
+        "txHash": "0xdaf10c3a2ffc47c1280ac822b850bd3d1e3634cf8c472c3617d6e2904907716a"
+      },
+      {
+        "txNumber": 4,
+        "gasUsed": 473129,
+        "txHash": "0x911f369960e68474e357956fa6bc2c7d87b69039f4c9643932409881f6d9dd1d"
+      },
+      {
+        "txNumber": 5,
+        "gasUsed": 473129,
+        "txHash": "0x624ae950a0c4c52d031f8e7a705e00ff604363c1da0c3e7a2c80251ce89ff4d9"
+      },
+      {
+        "txNumber": 6,
+        "gasUsed": 473129,
+        "txHash": "0x3f4e2d86bd3634257ac59150ede1b1a77a6c859bba20c6b3b9303d48140b2470"
+      },
+      {
+        "txNumber": 7,
+        "gasUsed": 471625,
+        "txHash": "0x004b8907d7eea259f461112026ef80533eb05570088348ac24d50e88ef502677"
+      },
+      {
+        "txNumber": 8,
+        "gasUsed": 473129,
+        "txHash": "0x16c5d2b62bd75b3b88d8b7cab17c7e454a164040331704570b5737fd16d43cb6"
+      },
+      {
+        "txNumber": 9,
+        "gasUsed": 473129,
+        "txHash": "0xb00ffcbee111746122d5dae2c83a57e1031f2184fdf1cd3ea146d5ea77d6761a"
+      },
+      {
+        "txNumber": 10,
+        "gasUsed": 473129,
+        "txHash": "0x5f6316a6580fd8954325312fd523c2d9d24169bea902376b4fc8affcbad57693"
+      },
+      {
+        "txNumber": 11,
+        "gasUsed": 471625,
+        "txHash": "0xcc13c94fefdca3529d35bbbd884e35aa01b948ca204cdd1f8bec3ce34821f1db"
+      },
+      {
+        "txNumber": 12,
+        "gasUsed": 473129,
+        "txHash": "0x0e4b4000c817135b67ec0130a7769a01f66247759465396ab69914c20efa6ec6"
+      },
+      {
+        "txNumber": 13,
+        "gasUsed": 473129,
+        "txHash": "0xbb24019396f2ccece4e4c0c615f575985f50f8e64db06f4908b9d64595f556ab"
+      },
+      {
+        "txNumber": 14,
+        "gasUsed": 473129,
+        "txHash": "0xdf21bdcdcb3fee2cefac13ad032e6d9dfdd3ef035b98dcba08d638c4a45e9abc"
+      },
+      {
+        "txNumber": 15,
+        "gasUsed": 473129,
+        "txHash": "0x3b683329ed3b45ed75720458315ee445bcf934f0be576235704f6fe20ea3a577"
+      },
+      {
+        "txNumber": 16,
+        "gasUsed": 471625,
+        "txHash": "0x685300fdc27d18900b69057fa9080b3e2f7a5df1703b2a171e70963cb50cab0e"
+      },
+      {
+        "txNumber": 17,
+        "gasUsed": 473129,
+        "txHash": "0x78d858f6ff62899615cfe037c6959c1a0b16807637ac223b993944c0bc3009c0"
+      },
+      {
+        "txNumber": 18,
+        "gasUsed": 473129,
+        "txHash": "0xb8eaa3c921726266cc50bf4188b2e431d315a45099617b777d81c2db3d62a9f4"
+      },
+      {
+        "txNumber": 19,
+        "gasUsed": 473129,
+        "txHash": "0x9d7b660989ac9bbf67333488c497c04ba3edb7fa10ca942b8e72ecf307f8b77d"
+      },
+      {
+        "txNumber": 20,
+        "gasUsed": 473129,
+        "txHash": "0x238aa76685cdd13d3388d25080f2d9e5e6dd1babff6fd13256caca3a62850658"
+      },
+      {
+        "txNumber": 21,
+        "gasUsed": 473129,
+        "txHash": "0x1ca46648a9ec11f81ff9e025496149b859d44f9497253d98a4837f7f86aab246"
+      },
+      {
+        "txNumber": 22,
+        "gasUsed": 473129,
+        "txHash": "0x2f24f9d101f692b2cb3230eafd828a59ca29ca5ea5f3a61a95afa7ffbcc09e0e"
+      },
+      {
+        "txNumber": 23,
+        "gasUsed": 471625,
+        "txHash": "0xcad092280a978501f1e6b3b3e459fd697c0e5316cc9ce79a6e1c9d01e1504bc4"
+      },
+      {
+        "txNumber": 24,
+        "gasUsed": 473129,
+        "txHash": "0x74b5d3a249841ff09a5a8b2effcbd1a3e3218138385b5b8b10f16166b8b08ca4"
+      },
+      {
+        "txNumber": 25,
+        "gasUsed": 473129,
+        "txHash": "0x7f1836da7229337ad15ba5be5988295eeca0ede56b7b7e494b23a5e9a774a253"
+      },
+      {
+        "txNumber": 26,
+        "gasUsed": 473129,
+        "txHash": "0xb0c88c6c26223bc4913a5f9f95844c7649fe61ce248141e209581f0c294f5683"
+      },
+      {
+        "txNumber": 27,
+        "gasUsed": 473129,
+        "txHash": "0x67eac4ac8d28798205eb4d17cc0e414ddda637c3aabfa0fa87f8828b6ede3366"
+      },
+      {
+        "txNumber": 28,
+        "gasUsed": 471625,
+        "txHash": "0xe9c727aed771e3e2dffc193ba9907aa53f776807129e9cf3d1f14f531626f0fa"
+      },
+      {
+        "txNumber": 29,
+        "gasUsed": 473129,
+        "txHash": "0xc97fa60ce323f0b3dffdc2c66b3eaa2ba7330c6157c17de031e082994b8b6c7c"
+      },
+      {
+        "txNumber": 30,
+        "gasUsed": 473129,
+        "txHash": "0x8b18a217dbc9c161769acddd5a571fc70423fff8299a7328af1959bc1099dd40"
+      },
+      {
+        "txNumber": 31,
+        "gasUsed": 473129,
+        "txHash": "0x73382a6ff7bd04b332287abfa7f8ef93fdd0458b082e5ab9caf7471848c6c10e"
+      },
+      {
+        "txNumber": 32,
+        "gasUsed": 473129,
+        "txHash": "0x46a81342e8fbcbf61f3a8f02446fa4136b23e287ba171141b1f2c650c3faac8d"
+      },
+      {
+        "txNumber": 33,
+        "gasUsed": 471625,
+        "txHash": "0x4f045c5347eb4f84f0a6def0d312bc2616625d65f6e0f208d26c6bae2f665a14"
+      },
+      {
+        "txNumber": 34,
+        "gasUsed": 473129,
+        "txHash": "0x42067a280596ac6d78ee3613bb8f779100ae0a8ca6de9df6a01fc93fbff38129"
+      },
+      {
+        "txNumber": 35,
+        "gasUsed": 473129,
+        "txHash": "0x2b9b4ea159f2f3032d12d781b0ef6e11833854354f5bcd079c6dc4db0f807579"
+      },
+      {
+        "txNumber": 36,
+        "gasUsed": 473129,
+        "txHash": "0x6fa23ff6591ba3d7664e9d4b76993a655fbb420358e072379c0747c4662c5928"
+      },
+      {
+        "txNumber": 37,
+        "gasUsed": 473129,
+        "txHash": "0xad750cf3d8d905970e30068bc686aa36bff1ac6956132dca787e3eeb00500810"
+      },
+      {
+        "txNumber": 38,
+        "gasUsed": 471625,
+        "txHash": "0x172b044ae82e544e698e56b2a0561fa551fe3c24def124bc017cf9d91ec11e63"
+      },
+      {
+        "txNumber": 39,
+        "gasUsed": 473129,
+        "txHash": "0x4598d6d9087af0754046c4f85928f819e7b4a3a1e5f187ec47415df62f2652a9"
+      },
+      {
+        "txNumber": 40,
+        "gasUsed": 473129,
+        "txHash": "0x44523b2257602aa652be44061c3452362efbb98092bdb729d321549471e4198b"
+      },
+      {
+        "txNumber": 41,
+        "gasUsed": 473129,
+        "txHash": "0x25c1204299e6a19f0d2e700d4f43a7d92cdb5c641b238bbd1412c21e3f4cc98d"
+      },
+      {
+        "txNumber": 42,
+        "gasUsed": 471625,
+        "txHash": "0x2b9d8a5146028c4580de58584ed3b4c8332af441609a178505ac7aa647981174"
+      },
+      {
+        "txNumber": 43,
+        "gasUsed": 473129,
+        "txHash": "0xdbc298a449c94097c95b07285d61dd45a8d1963144443f4b92f0115ef649f37a"
+      },
+      {
+        "txNumber": 44,
+        "gasUsed": 473129,
+        "txHash": "0x968a358a8388498db52762e0f83af3a363ec1291abf0d1c6ecb175156ad4e834"
+      },
+      {
+        "txNumber": 45,
+        "gasUsed": 473129,
+        "txHash": "0x689450e7a68da86eb4f191abc2ed0cc66c7b0bd0f1d0d62c3dd73504bf264b07"
+      },
+      {
+        "txNumber": 46,
+        "gasUsed": 473129,
+        "txHash": "0xbbff382f71c316ea7ab06c34e0784a5fe532e4df5a57bba2495525c46067e705"
+      },
+      {
+        "txNumber": 47,
+        "gasUsed": 473129,
+        "txHash": "0xdc2631507b1a5df66347caa4f2d51999f0b32de220c1f5980f8dfbc8ac261fe2"
+      },
+      {
+        "txNumber": 48,
+        "gasUsed": 473129,
+        "txHash": "0xed94fe0ceef1366618509fa96f922fc880ff8bdfd0e191f3878ae2f6a533cae4"
+      },
+      {
+        "txNumber": 49,
+        "gasUsed": 471625,
+        "txHash": "0x76aa69d0e088d5af1219d0ed0e87119b44016dab0e17630289bd37665d5c6e8e"
+      },
+      {
+        "txNumber": 50,
+        "gasUsed": 473129,
+        "txHash": "0x994677d6d5217c976c8f5381d168ff4c16557f7ee6c4ab78e94f8a91e474a6bd"
+      },
+      {
+        "txNumber": 51,
+        "gasUsed": 473129,
+        "txHash": "0x7e161e21742f4f99a4542a0361fed1c112af0981493c68c6567350851ded05e3"
+      },
+      {
+        "txNumber": 52,
+        "gasUsed": 473129,
+        "txHash": "0xfa175ce0f68ff2b83918da2a9db551ccd1ac15f8096055d6082787357b39c06c"
+      },
+      {
+        "txNumber": 53,
+        "gasUsed": 471625,
+        "txHash": "0xecf86fc02dc1015415afa6491708b3d0027532d36be9a43f17fa29d5113a6c2e"
+      },
+      {
+        "txNumber": 54,
+        "gasUsed": 473129,
+        "txHash": "0x7248e9bff10ee3662f4694eb0ce225576cc1db85a50734a8c9c47187e2274598"
+      },
+      {
+        "txNumber": 55,
+        "gasUsed": 473129,
+        "txHash": "0xf6cfc2d5ef3e4708f811f106af0716b18c42b2f7ecbec85716bcd93706e036c7"
+      },
+      {
+        "txNumber": 56,
+        "gasUsed": 473129,
+        "txHash": "0x60c282c3cc9ef549a4218d145da09f3f092865f8d5b205843a53faf620cf7094"
+      },
+      {
+        "txNumber": 57,
+        "gasUsed": 471625,
+        "txHash": "0xa756202a114caf818c36b65bf62061ac99edc25bcd1e73afb8d3cf66e9a59f3f"
+      },
+      {
+        "txNumber": 58,
+        "gasUsed": 473129,
+        "txHash": "0xbd94f8fe2a042a0e174352dd7613048a17a800f238b86a0cd7dd22c3a8ca128e"
+      },
+      {
+        "txNumber": 59,
+        "gasUsed": 473129,
+        "txHash": "0xd933e6e6c70fd210f71dbb752b648a8e0d2f16ea0a85908913792f583a13dedd"
+      },
+      {
+        "txNumber": 60,
+        "gasUsed": 471625,
+        "txHash": "0xa75b8a5a817675c8f639fbf90117055274b5c604edab60c6e725194ab68e3b00"
+      },
+      {
+        "txNumber": 61,
+        "gasUsed": 473129,
+        "txHash": "0xf1102d843efca6cc4b5b6240eae9d51185e01e6a4861437007b3a53cd1a880ff"
+      },
+      {
+        "txNumber": 62,
+        "gasUsed": 473129,
+        "txHash": "0x33d1abed529297f767981b0ae01c69f07fe3f945cc6d23a62d975e0056e48947"
+      },
+      {
+        "txNumber": 63,
+        "gasUsed": 473129,
+        "txHash": "0x41dc6d621aaa7eeb01b3308b4f28655675858d26a17e6bd4d43f2351acd4c6b2"
+      },
+      {
+        "txNumber": 64,
+        "gasUsed": 473129,
+        "txHash": "0xcde34c7ec809f340253281b91e0b696b0f4d6441d491c7548a0908e5f4d71022"
+      },
+      {
+        "txNumber": 65,
+        "gasUsed": 471625,
+        "txHash": "0xa21696b1e8bfd800a2d5ed35e3fd378e7b19959032895f969a213a3413be138e"
+      },
+      {
+        "txNumber": 66,
+        "gasUsed": 473129,
+        "txHash": "0xeb694b88117347247982f79846b58c32bf7822e9fde959696679b4881751d305"
+      },
+      {
+        "txNumber": 67,
+        "gasUsed": 473129,
+        "txHash": "0xf6d3c29415ef5f3ea3985d158425035e778004099e5a56f3e5f18946f8796244"
+      },
+      {
+        "txNumber": 68,
+        "gasUsed": 473129,
+        "txHash": "0xaf47364d1565fe7761f02ffd8e718f612c51f5d65fbc48347245e00cc67cb27a"
+      },
+      {
+        "txNumber": 69,
+        "gasUsed": 473129,
+        "txHash": "0xc54ef858a4c7cd691519b11ccf673e66a78f78934b09dfa355210706ba9d852f"
+      },
+      {
+        "txNumber": 70,
+        "gasUsed": 473129,
+        "txHash": "0xd45a901ee64a8afe578138d1bba0a22272e0cb5c48c76e6f5afa4dffe91f09da"
+      },
+      {
+        "txNumber": 71,
+        "gasUsed": 473129,
+        "txHash": "0xc3ee1e680ca7f5a471d5458f43d3ebb3d2d1745bc3f04c3d79ecaa4d583e60dc"
+      },
+      {
+        "txNumber": 72,
+        "gasUsed": 473129,
+        "txHash": "0x11f42864f93f062f0e5d133289a03a95ee360323095f14a84520d4466f715fc6"
+      },
+      {
+        "txNumber": 73,
+        "gasUsed": 471625,
+        "txHash": "0xdcacb98ec6c185ef717473fbf4a1e68a8c166ef7fbe7f5abc4d40effee60948b"
+      },
+      {
+        "txNumber": 74,
+        "gasUsed": 473129,
+        "txHash": "0x0f9bf18592396e325ab18c311705faf082aafb5be0f0a8f713d9f49d040ce786"
+      },
+      {
+        "txNumber": 75,
+        "gasUsed": 473129,
+        "txHash": "0xf5c910b04d185888f92b2070b77b81d96241621c61a3002026a9cedd6733eb55"
+      },
+      {
+        "txNumber": 76,
+        "gasUsed": 473129,
+        "txHash": "0x15b644bcde8f34e15693d4301ef49460a80455c5f03e47aa9a8c33b43f94579a"
+      },
+      {
+        "txNumber": 77,
+        "gasUsed": 473129,
+        "txHash": "0x77691dfffd30af8ff41b30674aeab187d3029804f9b41f8378bf8c170d302170"
+      },
+      {
+        "txNumber": 78,
+        "gasUsed": 471625,
+        "txHash": "0xf396543ca8fd86c41837f19d7e82dda8ee1494a4c49b120eeb78e2dd17858e19"
+      },
+      {
+        "txNumber": 79,
+        "gasUsed": 473129,
+        "txHash": "0x6386d6a085d6b23723480675ff9ba1c3b53a52005dc3f741422e7a7862f3122a"
+      },
+      {
+        "txNumber": 80,
+        "gasUsed": 473129,
+        "txHash": "0x8f20803668aa57ea3e5acd4fc9426d8c5de0510e9cee458823dc95aab1f51c32"
+      },
+      {
+        "txNumber": 81,
+        "gasUsed": 473129,
+        "txHash": "0xbb1acec0f9cdbd68a09b75cb6b3c947540436c2092c07c8c538773222342fc56"
+      },
+      {
+        "txNumber": 82,
+        "gasUsed": 473129,
+        "txHash": "0xe4955e85f121736bda1c85a50790cdb120af917fd574620a106bf85cb4cae61b"
+      },
+      {
+        "txNumber": 83,
+        "gasUsed": 471625,
+        "txHash": "0xcff21213383fb97208ff2006257e9c0827514b2db97ab1c9c0bd4e9527043e54"
+      },
+      {
+        "txNumber": 84,
+        "gasUsed": 473129,
+        "txHash": "0x36eb921d0bbede6d4b7ef07a6234543dd49ca592c99dbee3b1b95edbe8c1b710"
+      },
+      {
+        "txNumber": 85,
+        "gasUsed": 473129,
+        "txHash": "0x86d5af3187c0b8242fde839540f8b5cbce3f85efe9b57ded3b7653b65e64895f"
+      },
+      {
+        "txNumber": 86,
+        "gasUsed": 473129,
+        "txHash": "0xf6b905173b44f8dbcff5513872f40204939130ddcc7d5008e87f71a5be7cdd48"
+      },
+      {
+        "txNumber": 87,
+        "gasUsed": 473129,
+        "txHash": "0x0a6897f806e94d73f5eb5bceafe0f1633aa665241f34fd7208b0cd2e0d85a53e"
+      },
+      {
+        "txNumber": 88,
+        "gasUsed": 471625,
+        "txHash": "0x4fdb87f8dc4f7084a98027f4db67ee7352cae43e4fe5aa84e4d5cdf3aa535553"
+      },
+      {
+        "txNumber": 89,
+        "gasUsed": 473129,
+        "txHash": "0x2de0cdd88053aa1864f5473419606ddde565df4a90fec12675742d7f7b5844f5"
+      },
+      {
+        "txNumber": 90,
+        "gasUsed": 473129,
+        "txHash": "0x05504d96efca8e9ea515bd5c7e20b0ecc26184265656283cd67c722cbb20fe53"
+      },
+      {
+        "txNumber": 91,
+        "gasUsed": 473129,
+        "txHash": "0xa475117b7346c36f48d9b1a5ec53c93dfe5a288592783f1797d4f4ec3ea22c30"
+      },
+      {
+        "txNumber": 92,
+        "gasUsed": 473129,
+        "txHash": "0x650aac56f685fa2ced8d98f140f54be0466ac726377dd13682d01dcb794e14a4"
+      },
+      {
+        "txNumber": 93,
+        "gasUsed": 471625,
+        "txHash": "0x70fc9e670cd1d059aa6e8bba09844ef0453bca8a1eeca70a52d829dda87206bb"
+      },
+      {
+        "txNumber": 94,
+        "gasUsed": 473129,
+        "txHash": "0x5e6e9385625cd3425f538d22dc50318fb9c7bd7e2b2d88a596e020a6e83d9e67"
+      },
+      {
+        "txNumber": 95,
+        "gasUsed": 473129,
+        "txHash": "0x00690e93f717339faf5a0b0d5cd5937b8cc2c1480d80da1a8316a8ceeac47e4e"
+      },
+      {
+        "txNumber": 96,
+        "gasUsed": 473129,
+        "txHash": "0x56ef4246676a019495fb1df88bbd16918312c7e952b04b25e485f2eee7043738"
+      },
+      {
+        "txNumber": 97,
+        "gasUsed": 471625,
+        "txHash": "0x3475456d530ccaf9a21acfebd3f25f0b960784b181ec68427983b811bdc511da"
+      },
+      {
+        "txNumber": 98,
+        "gasUsed": 473129,
+        "txHash": "0xe9ae986f1f2d6a5659b523a7bdd2fb14899dd446bfb0b88bea260dd3c084d09c"
+      },
+      {
+        "txNumber": 99,
+        "gasUsed": 473129,
+        "txHash": "0xf28ef710f6d03b4197223776847556a64e33d3bb79a45480974aa66546bb9345"
+      },
+      {
+        "txNumber": 100,
+        "gasUsed": 473129,
+        "txHash": "0x048a9d050fc2859d83b33d91b1ad46107fa0f42664b8a08c5212a876689c34c7"
+      }
+    ],
+    "totalGas": 47282820,
+    "avgGas": 472828.2
   },
   "level2": {
-    "transactions": [],
-    "totalGas": 0,
-    "avgGas": null
+    "transactions": [
+      {
+        "txNumber": 1,
+        "gasUsed": 491936,
+        "txHash": "0x8f90c74b64c41518b7ef3567c3caab38419d533cc355a69303d08a4f3ac451f9"
+      },
+      {
+        "txNumber": 2,
+        "gasUsed": 493439,
+        "txHash": "0xd070177c073a33e3130bf895608f860a2112dcfd8ddd048c8d3b9eab4c0221d6"
+      },
+      {
+        "txNumber": 3,
+        "gasUsed": 493439,
+        "txHash": "0xd169bd04af5d4c8aee125b15614acf28e452830b6a1ee6ae2204ffc2ea9146b5"
+      },
+      {
+        "txNumber": 4,
+        "gasUsed": 493439,
+        "txHash": "0xc3c470f57a3c7a66e8d1fc505dbbdaba02c9d8879478286f1a5cd73950c109f9"
+      },
+      {
+        "txNumber": 5,
+        "gasUsed": 493439,
+        "txHash": "0x15ca20c9a4185c677f6e062ee25ad0cd1eb6c716b8fba4fd76cc1c729170e1b6"
+      },
+      {
+        "txNumber": 6,
+        "gasUsed": 491936,
+        "txHash": "0xfbee70d578dfee7437707193372265c4b3910e909c42778faf0c7c08274e3e52"
+      },
+      {
+        "txNumber": 7,
+        "gasUsed": 493439,
+        "txHash": "0x9033c5e6f4cff3b0f4509084f6bfdfc554562dcb2313f52709c615439cc93954"
+      },
+      {
+        "txNumber": 8,
+        "gasUsed": 493439,
+        "txHash": "0x3cc2da27f1cd98109243f773ec9466a052e2624390d6d3c01b33ad94aebc8e3f"
+      },
+      {
+        "txNumber": 9,
+        "gasUsed": 493439,
+        "txHash": "0x70f92be100362262352ee485892e7af1f476fdbbecdedd8b898d595ff857909b"
+      },
+      {
+        "txNumber": 10,
+        "gasUsed": 493439,
+        "txHash": "0xcf5be09946f4789d81da78d0f8d4e7a50e7b9895d79b2d41541714f0206c87a6"
+      },
+      {
+        "txNumber": 11,
+        "gasUsed": 493439,
+        "txHash": "0xc10a8da9a52844b53fa3ce18619b097d1c50a3189efec37f73b14d94368fc24b"
+      },
+      {
+        "txNumber": 12,
+        "gasUsed": 493439,
+        "txHash": "0x0d9207492fb41858ce55f3544f61bc2c898beaa5b22306812c404c4fb698ddb6"
+      },
+      {
+        "txNumber": 13,
+        "gasUsed": 493439,
+        "txHash": "0x856dbff3d82e383c3ae1484fccaa6b01f782f63a7bc196a4154ba5349234ceb2"
+      },
+      {
+        "txNumber": 14,
+        "gasUsed": 491936,
+        "txHash": "0xb568678820929d252c58bac27724da1e7b400644cbf3aa0790e9d5118ed1dc0a"
+      },
+      {
+        "txNumber": 15,
+        "gasUsed": 493439,
+        "txHash": "0xb686d9ae5c3a4076f2fb654e60bb7c65bfcf0105f96e52d743eed5fba47177e4"
+      },
+      {
+        "txNumber": 16,
+        "gasUsed": 493439,
+        "txHash": "0x8854ee67002196f5b8c2c9ca4ab20215bfca25a58c1d0fc4d4f8c7888f23c673"
+      },
+      {
+        "txNumber": 17,
+        "gasUsed": 493439,
+        "txHash": "0x8d3d1645cf42f857b401b251224d1d185dc9defc6544428b3997776975d3d653"
+      },
+      {
+        "txNumber": 18,
+        "gasUsed": 493439,
+        "txHash": "0x79604a8aa738872a8240b5fd9ad45017059f083c0095d6bd8d69991b1582e874"
+      },
+      {
+        "txNumber": 19,
+        "gasUsed": 493439,
+        "txHash": "0x9bfbb786c7b1bf89aab4b01543474d04c888ce48bd8cd89a0049e80648d1a4ac"
+      },
+      {
+        "txNumber": 20,
+        "gasUsed": 493439,
+        "txHash": "0x33475f07c43daa314a47df5aaaf96ddc83c6133efa8cde1a9dacdd2445a9c36c"
+      },
+      {
+        "txNumber": 21,
+        "gasUsed": 491936,
+        "txHash": "0x87ad609c4ab8bc6b856e66d3fc795bc465d7f3d5d6defccacbef58c2f5ba1258"
+      },
+      {
+        "txNumber": 22,
+        "gasUsed": 493439,
+        "txHash": "0x4e166391162bcb59d6f0b175d02c76533ac2ed1c2b11ecc5e8dc10986d7d6f49"
+      },
+      {
+        "txNumber": 23,
+        "gasUsed": 493439,
+        "txHash": "0xc30105f0644f2ce1143ed367931206fcbe7c8e7ac4ad1001b86e45cce956a8a8"
+      },
+      {
+        "txNumber": 24,
+        "gasUsed": 493439,
+        "txHash": "0xb57d6a54b4de314ba07e994b2ba4bbd16916fb903c7a17821acfb256e692421c"
+      },
+      {
+        "txNumber": 25,
+        "gasUsed": 491936,
+        "txHash": "0x2b2375dca9e2f2e156405c09df7a4b85ca4a7cf9772dcab3205b20d7dd9b487a"
+      },
+      {
+        "txNumber": 26,
+        "gasUsed": 493439,
+        "txHash": "0xaf92bbd94f80a272b09d7633944cca213ff1d8b3ab410855c31a06e7c81d251d"
+      },
+      {
+        "txNumber": 27,
+        "gasUsed": 493439,
+        "txHash": "0xd1149ae65b51e93ffb03a4c98c541d03409b53b43272d7901662c6a2f2ecdbb2"
+      },
+      {
+        "txNumber": 28,
+        "gasUsed": 493439,
+        "txHash": "0xf2e1fdd0bd53113b3519eff06d0eebb9d88258129e85b031683b81baf985d539"
+      },
+      {
+        "txNumber": 29,
+        "gasUsed": 493439,
+        "txHash": "0x05e642fa0e58d09e780f37b3e59fda03839872de09885463c0fc1969091f4fb2"
+      },
+      {
+        "txNumber": 30,
+        "gasUsed": 491936,
+        "txHash": "0x87e08dca48ac027e6c8aee26207359fb69b6593b6566bbce9de847fb3fd30d99"
+      },
+      {
+        "txNumber": 31,
+        "gasUsed": 493439,
+        "txHash": "0xfa9ce99c96f9995e3770c10a4100d479ddd9113cb7d87e86d49dc804a1658895"
+      },
+      {
+        "txNumber": 32,
+        "gasUsed": 493439,
+        "txHash": "0xfd82772cd90b147de694fd89f5fae5fb3e6319ca1c0ae0bef23bd38ec696d8ae"
+      },
+      {
+        "txNumber": 33,
+        "gasUsed": 493439,
+        "txHash": "0x306816ff3baaa04369b5ad1a9146859bb3e98bd6e2276dcbb8fb43ea640b2dfa"
+      },
+      {
+        "txNumber": 34,
+        "gasUsed": 493439,
+        "txHash": "0x74170f036b5a78dcd97ca9385c7d482957465bcaa64039b2acf70d83ca1af106"
+      },
+      {
+        "txNumber": 35,
+        "gasUsed": 491936,
+        "txHash": "0x6af8d86ae1f0cfb7a1fb0e529c94b6717c8a0983286d80b5eefdea2fca34a89d"
+      },
+      {
+        "txNumber": 36,
+        "gasUsed": 493439,
+        "txHash": "0x9cb30cadf95af0f3e5c0b2527e66cd24631dcfb62346a1c59cb8ae26c9b59dae"
+      },
+      {
+        "txNumber": 37,
+        "gasUsed": 493439,
+        "txHash": "0x912a2af72236b69261bcd1e52940a9cc112552609ab197b6cff04449629d0a94"
+      },
+      {
+        "txNumber": 38,
+        "gasUsed": 493439,
+        "txHash": "0xc55099bf942eab22093513cd973a027856b2f5cfc24b48877789cc396b7e51de"
+      },
+      {
+        "txNumber": 39,
+        "gasUsed": 493439,
+        "txHash": "0x6dacf92f5b28e28c5d4d69f4a573f9cf4d186bf528a0e9435d447110b12d55be"
+      },
+      {
+        "txNumber": 40,
+        "gasUsed": 493439,
+        "txHash": "0xeb9a4ae914fb7d1d2be4a17e5669cc3610073e306d2a42a97166a880205ddf94"
+      },
+      {
+        "txNumber": 41,
+        "gasUsed": 493439,
+        "txHash": "0x8379b4bfb27cba8523a7872eb99a7d9e6e7389d4601c4a679f47ac8bce225033"
+      },
+      {
+        "txNumber": 42,
+        "gasUsed": 493439,
+        "txHash": "0x5c511f49c83b63a30c6b2c90ce78f22c50c6a41085d27bdaf125f883d568daf5"
+      },
+      {
+        "txNumber": 43,
+        "gasUsed": 493439,
+        "txHash": "0x0753af192e24f59b90b42549083f03102f0a1ee9fcb6ebf8a07cccffc7771ce5"
+      },
+      {
+        "txNumber": 44,
+        "gasUsed": 491936,
+        "txHash": "0x29a530a02b7fa3cada0a08cb9ae99c08181c340c3be446b88bdd6726b0b8fa1c"
+      },
+      {
+        "txNumber": 45,
+        "gasUsed": 493439,
+        "txHash": "0x3731102fc39a35e2d2bb25d1f751a5b2289a0e604bae9964747aa4c393ace162"
+      },
+      {
+        "txNumber": 46,
+        "gasUsed": 493439,
+        "txHash": "0x6eeb6074e7f09bf4e20cd1b4e4e7c592fdac71b7564517f8ad47af21c8105e6f"
+      },
+      {
+        "txNumber": 47,
+        "gasUsed": 491936,
+        "txHash": "0x97cfa0566420ede4a77a93a8694bc3529339d7cec97c17ba39704a6a1909149b"
+      },
+      {
+        "txNumber": 48,
+        "gasUsed": 493439,
+        "txHash": "0x9e11abdb33cdcc4f75246993f0d14519f63587e0c95741daed25f68e3b250bc8"
+      },
+      {
+        "txNumber": 49,
+        "gasUsed": 493439,
+        "txHash": "0x109a9f07c2e83196937172876a7a846ef8a91c8dbd73ed9419df70b2f353c936"
+      },
+      {
+        "txNumber": 50,
+        "gasUsed": 491936,
+        "txHash": "0xad6022002140795b79a6bc5bad358833e75799d24448cc87b81ea8cce0f75ec9"
+      },
+      {
+        "txNumber": 51,
+        "gasUsed": 493439,
+        "txHash": "0xe64f4e8aa801849914b18fcef917fdf49449359ea960b7af545938e0048a8b1a"
+      },
+      {
+        "txNumber": 52,
+        "gasUsed": 493439,
+        "txHash": "0xab89f66576e5b84b98b7d02c0bcd3ff5882727590edbb785b544d8403526ac1c"
+      },
+      {
+        "txNumber": 53,
+        "gasUsed": 493439,
+        "txHash": "0x31b80d39e4b7247db1e59a39ca54b384c3d3ca572bc98d9c6508cbd78f5f8651"
+      },
+      {
+        "txNumber": 54,
+        "gasUsed": 493439,
+        "txHash": "0x1cc8a47d7f5681459f01abc2de14889a404a6b9030811f853d491795a45c8ed5"
+      },
+      {
+        "txNumber": 55,
+        "gasUsed": 493439,
+        "txHash": "0xb696cf35040f53207e27792c2c157e642a7fec6b936c373d5f0bda426a9596f1"
+      },
+      {
+        "txNumber": 56,
+        "gasUsed": 493439,
+        "txHash": "0x402fd118bd83e21e69e87d328ac17dfd8493805a10af068e7214a5c29da06140"
+      },
+      {
+        "txNumber": 57,
+        "gasUsed": 493439,
+        "txHash": "0x918b4a9e9459d5431c495328f5a0505d886ba79ba459e9951d86e1b41b838e09"
+      },
+      {
+        "txNumber": 58,
+        "gasUsed": 493439,
+        "txHash": "0xa389d2e2b5b837e3e227cd055470b739aa6a935ea8582c0aeb0892fee351cb9c"
+      },
+      {
+        "txNumber": 59,
+        "gasUsed": 493439,
+        "txHash": "0x625f14a76631cd077325320957b6c9a29b2b1c4f286dacfedff1c6643398161b"
+      },
+      {
+        "txNumber": 60,
+        "gasUsed": 493439,
+        "txHash": "0x3af11268619e10ae6df4821d815223c95c60576284e39d2eec7df57c0b097ac0"
+      },
+      {
+        "txNumber": 61,
+        "gasUsed": 493439,
+        "txHash": "0x3aaa48e034ac78af23438a8443fe9bf358361a593b796b0134df73dd90618447"
+      },
+      {
+        "txNumber": 62,
+        "gasUsed": 493439,
+        "txHash": "0xb2d10c5d93a4a64fa674f1c37761214eeb6ad79009f43206a3af4e747f6fef9e"
+      },
+      {
+        "txNumber": 63,
+        "gasUsed": 491936,
+        "txHash": "0x17f10b6c3ffd26a9e20e3280e9aa4a0c92afc62e4911c3787eca190f1f2ec552"
+      },
+      {
+        "txNumber": 64,
+        "gasUsed": 493439,
+        "txHash": "0x438c2799d86360b50fdc483936ed13fc6bcd18160654adc40b1ba9ea576ecbc9"
+      },
+      {
+        "txNumber": 65,
+        "gasUsed": 493439,
+        "txHash": "0xe3b3002a837504794385a369779702a79e7f64e5d5c45d7027850054e88b5438"
+      },
+      {
+        "txNumber": 66,
+        "gasUsed": 493439,
+        "txHash": "0x88a12450cabd31d194551afb71404efeaf777523c685dbda5ce6000fe4248f5f"
+      },
+      {
+        "txNumber": 67,
+        "gasUsed": 493439,
+        "txHash": "0xea48ba977cff9cba46547db599a94496aca96fca5c5c1481f02b3ecfc143c3db"
+      },
+      {
+        "txNumber": 68,
+        "gasUsed": 493439,
+        "txHash": "0xb7c792329dcaa7a264131cf4c1fc328c88c0ff622c65df38b1fb289499ecd07a"
+      },
+      {
+        "txNumber": 69,
+        "gasUsed": 493439,
+        "txHash": "0x7003c95c181495202a9fd8a8b246073defd84074b70b85716b35c7369871adba"
+      },
+      {
+        "txNumber": 70,
+        "gasUsed": 490432,
+        "txHash": "0x4c062e16abe5848d6e3c2c1f99ba24aea0d572cd5f370e94e4b5fb2ef6a0f58d"
+      },
+      {
+        "txNumber": 71,
+        "gasUsed": 491936,
+        "txHash": "0x2245b899525f50758cd4b11672032bdbcf71255062337723daa352e4c946d7ba"
+      },
+      {
+        "txNumber": 72,
+        "gasUsed": 491936,
+        "txHash": "0xf07646cc9f5c60152fb3e53d72e09f673ad80a8d957b0181e8faa32264733e92"
+      },
+      {
+        "txNumber": 73,
+        "gasUsed": 491936,
+        "txHash": "0xce96241b1d3f3600a3fc52744481452b734d5a01fd1e2a1770e8edeaddf7d578"
+      },
+      {
+        "txNumber": 74,
+        "gasUsed": 491936,
+        "txHash": "0xd9467113fa70daf08c754c3066ce5c19964de8dbde2ebff83cb1ca106047b18c"
+      },
+      {
+        "txNumber": 75,
+        "gasUsed": 491368,
+        "txHash": "0x292371f3a6981b14dd0b916313a1cd929861ee75c2ebfea7c459085aea660206"
+      },
+      {
+        "txNumber": 76,
+        "gasUsed": 492872,
+        "txHash": "0x0028e28c5f8cefb1cd6135a4342a052ef09fce527088eba208e16795fce6a773"
+      },
+      {
+        "txNumber": 77,
+        "gasUsed": 492872,
+        "txHash": "0xbaae90770c2950f04511b7e9ebbf73acb9a4b3996bcf2aa0154edc11b4bd57a5"
+      },
+      {
+        "txNumber": 78,
+        "gasUsed": 492872,
+        "txHash": "0x43fa0fa37572d299555dd48618170c9885436d8534f8134c3503ed334f1cd86c"
+      },
+      {
+        "txNumber": 79,
+        "gasUsed": 491368,
+        "txHash": "0x795ffab6326e07523f90ba403aed8b2a8235a7521fd306a2194c41920fb9cb19"
+      },
+      {
+        "txNumber": 80,
+        "gasUsed": 492872,
+        "txHash": "0x6e6378697d59bcddfeb9aafcf88c3d896bc22b7aac48b8565abc24324c742574"
+      },
+      {
+        "txNumber": 81,
+        "gasUsed": 492872,
+        "txHash": "0x69d5cb12d34e0ea5f75176e50793151fd62bb6d4773b1d529f89bc2b58f4e51b"
+      },
+      {
+        "txNumber": 82,
+        "gasUsed": 492872,
+        "txHash": "0xbcc24e35db8e5437eda67d20f4649a8fce01d68b5be59f7a219831cefd4d0705"
+      },
+      {
+        "txNumber": 83,
+        "gasUsed": 491368,
+        "txHash": "0x553a6248f4d80acd17ffc2e854cdad1482dca8f424308da6b0f9995778bbb8da"
+      },
+      {
+        "txNumber": 84,
+        "gasUsed": 492872,
+        "txHash": "0xeef88b73d70fc6bc00fd7592c7696d5c6da84957388f2ccd12c23379ae7a982e"
+      },
+      {
+        "txNumber": 85,
+        "gasUsed": 492872,
+        "txHash": "0x54df1e03d31e0c67a02455759aed4d220f20463951b17ede2cfdedf3ed67f0ad"
+      },
+      {
+        "txNumber": 86,
+        "gasUsed": 492872,
+        "txHash": "0x45d9ec3958e1ec71ff8bf672c5c08efa8241061a0fd81143f55f2021c35352e3"
+      },
+      {
+        "txNumber": 87,
+        "gasUsed": 492872,
+        "txHash": "0x2baeed0c70f3352f2e10cc9ab2cbc9057c3f461473293b10b288924bac746b85"
+      },
+      {
+        "txNumber": 88,
+        "gasUsed": 491368,
+        "txHash": "0x075e0f5f878292c01cb5a1a7e3bb6a2b326fe63d82198ff84bc11585fcc0b88d"
+      },
+      {
+        "txNumber": 89,
+        "gasUsed": 492872,
+        "txHash": "0x8e0f1fc73ed3916da00e38ede80250e194612333677e3bcbf9bea90cd7cb54ed"
+      },
+      {
+        "txNumber": 90,
+        "gasUsed": 491368,
+        "txHash": "0xa61f7b7844802812afb74f6a8384aa818a305b4349357a17545193f6031be68f"
+      },
+      {
+        "txNumber": 91,
+        "gasUsed": 492872,
+        "txHash": "0x7137203230c5c97683584bad4c799152dfcfc23ffe8e999f45ced6d9f890ef85"
+      },
+      {
+        "txNumber": 92,
+        "gasUsed": 492872,
+        "txHash": "0x3c3c171a8f3bd2f241b3ab2aab36bf9e8f3aede65e4549fe08b3a97165c8ba2b"
+      },
+      {
+        "txNumber": 93,
+        "gasUsed": 492872,
+        "txHash": "0x8e96727c08599960cd86ecd36674af269520e5ca58594360010bc00ea7051aed"
+      },
+      {
+        "txNumber": 94,
+        "gasUsed": 492872,
+        "txHash": "0x55ff818c740363b7f00e23fcd29528ac7d3944f1ce1bbad09984bbe23fe289a0"
+      },
+      {
+        "txNumber": 95,
+        "gasUsed": 491368,
+        "txHash": "0xf67d9022cbde94fdb5a5dccde280a674e4978cc50d662ac99f8845c2049dc5b6"
+      },
+      {
+        "txNumber": 96,
+        "gasUsed": 492872,
+        "txHash": "0x789a5b96f8cd4a4b121d0bbcaade3e995cac9b50c1aacae94cf476f577aa1df8"
+      },
+      {
+        "txNumber": 97,
+        "gasUsed": 492872,
+        "txHash": "0x7c9cd4b11bcff48962121cecf2ceb017a9465c8075014ae45a1172fb046878b3"
+      },
+      {
+        "txNumber": 98,
+        "gasUsed": 491368,
+        "txHash": "0xb3606cf4a5e089445aef239f766e4e76546a282bf9d3faedc50ae19f6a17c918"
+      },
+      {
+        "txNumber": 99,
+        "gasUsed": 492872,
+        "txHash": "0x6bf3526ad196a0af28f59b803f5daf6ddfbce8ac1841d077a5c728598cb5c9ec"
+      },
+      {
+        "txNumber": 100,
+        "gasUsed": 492872,
+        "txHash": "0xc7554ae7296fe792875423a90c90c1e87e73b3bfa2c65b71a6db4cfb0e71eda0"
+      }
+    ],
+    "totalGas": 49293078,
+    "avgGas": 492930.78
   },
   "level3": {
-    "transactions": [],
-    "totalGas": 0,
-    "avgGas": null
+    "transactions": [
+      {
+        "txNumber": 1,
+        "gasUsed": 512175,
+        "txHash": "0xb7c74e1af6062db93bd5b7d0938f711f6a42446f733fba2faae2de135274ecee"
+      },
+      {
+        "txNumber": 2,
+        "gasUsed": 512175,
+        "txHash": "0x18b3c06174d882b29be25eec447537f13890a389fb292ca3795af7b8ad31c385"
+      },
+      {
+        "txNumber": 3,
+        "gasUsed": 511239,
+        "txHash": "0x3dd84f6a201dfaebc4d024c4d58d5aacf136992ad61085c70ffa1e01a880c013"
+      },
+      {
+        "txNumber": 4,
+        "gasUsed": 512742,
+        "txHash": "0xefd71cdd422e6077b6a0d7afd4d4846840296d6d4760b923c9732533526c24d7"
+      },
+      {
+        "txNumber": 5,
+        "gasUsed": 512742,
+        "txHash": "0x8a03d951255e1182adbbd12f3ae9a01e9ecb7462f7b553a4171f8becd570f2a8"
+      },
+      {
+        "txNumber": 6,
+        "gasUsed": 511239,
+        "txHash": "0x675e1703c5cb4d9a3ec555524ebd07f7319eb0663c8e15969aa9ba03b240eaea"
+      },
+      {
+        "txNumber": 7,
+        "gasUsed": 512742,
+        "txHash": "0x92c65644ac1a8895f26f8f53ff7092247e4f93626f842f0cd42fc6687d84eb78"
+      },
+      {
+        "txNumber": 8,
+        "gasUsed": 512742,
+        "txHash": "0xda03eec2b0ce0940e8067a8279ddef834696ddbaa5b3c6fa0ff685e48e6175ee"
+      },
+      {
+        "txNumber": 9,
+        "gasUsed": 512742,
+        "txHash": "0xc5b437c63cbdaba703dada022988dcbc65036f996c72f766279599c95eaa51c0"
+      },
+      {
+        "txNumber": 10,
+        "gasUsed": 512742,
+        "txHash": "0x510dd55d2fd9b83e730e62a9fcac35011ba1618ca2d128f8c53e553573719f0d"
+      },
+      {
+        "txNumber": 11,
+        "gasUsed": 512742,
+        "txHash": "0x6eb0aee57e1b814c8e12f334668c32f308993f0db40cc97a8472896adf1ae739"
+      },
+      {
+        "txNumber": 12,
+        "gasUsed": 512742,
+        "txHash": "0x25d1054f393d854a437f78e9b4a2539da78fa9d51664e3630b4f13fab4dc6f47"
+      },
+      {
+        "txNumber": 13,
+        "gasUsed": 512742,
+        "txHash": "0x9f4d07426305aa6f22cdda1215c688f9eaf6e789211530a7133603107c41f29d"
+      },
+      {
+        "txNumber": 14,
+        "gasUsed": 512742,
+        "txHash": "0xc8735065968a8e98005d71e6f76a835610b1371bbb20141417ee04ab6bba7b2b"
+      },
+      {
+        "txNumber": 15,
+        "gasUsed": 511239,
+        "txHash": "0xf0fccd93e28193bbb7a6ee9fc8df45fa69ff5c3fd53339503fad9f0706a6bbd5"
+      },
+      {
+        "txNumber": 16,
+        "gasUsed": 512742,
+        "txHash": "0x43d9b0be3137f882ac820d84691c49cddcea9c05ca14ec39c7e5edb25673ac9a"
+      },
+      {
+        "txNumber": 17,
+        "gasUsed": 512742,
+        "txHash": "0x15c6505a477dd6decb3731bec755dd2902ccf1bfc1273f3a47721697dbd1fa89"
+      },
+      {
+        "txNumber": 18,
+        "gasUsed": 512742,
+        "txHash": "0x27350e710525a33575d0650e457f04284b3c2b3d498206ef9b959c65e4e063b1"
+      },
+      {
+        "txNumber": 19,
+        "gasUsed": 512742,
+        "txHash": "0x95c3d870c4e4b099d2345a4c4f467394c24615ecea1f7727cc8b8259b73f2281"
+      },
+      {
+        "txNumber": 20,
+        "gasUsed": 511239,
+        "txHash": "0x0c4c6b422f56621dd0e77e605307a4fe7036770469225d8232e6ea8fa7fb7091"
+      },
+      {
+        "txNumber": 21,
+        "gasUsed": 512742,
+        "txHash": "0x1e65a314de5027c9e1908b93ca600cbb7f45609419ebefb99232b0a4f240cdd3"
+      },
+      {
+        "txNumber": 22,
+        "gasUsed": 512742,
+        "txHash": "0x212e274e08684b173bf6b8422a5a46024c00c194e772106b65cc3803a5cab2d4"
+      },
+      {
+        "txNumber": 23,
+        "gasUsed": 511239,
+        "txHash": "0x5bb0abe362d167de935da57374971394bccff093fed4b1ab9441a046a7e9dfeb"
+      },
+      {
+        "txNumber": 24,
+        "gasUsed": 512742,
+        "txHash": "0x045e5ceaa0a366b849ead490e4d484a1f32c4df02d058c94dae6cb399d4b52c1"
+      },
+      {
+        "txNumber": 25,
+        "gasUsed": 512742,
+        "txHash": "0x9549bc8350acec290832c7f24426340dc827f975a8caa593e0ee761b638d3a67"
+      },
+      {
+        "txNumber": 26,
+        "gasUsed": 512742,
+        "txHash": "0x25a2e3626fd81e0ef2a52457b9109649c01f0a15df5516c23bd7dfdd51d0a6cf"
+      },
+      {
+        "txNumber": 27,
+        "gasUsed": 512742,
+        "txHash": "0x65f56a5bc191cf0708c7d94f92b049ff386177f149fff274e2c3b07102b1039f"
+      },
+      {
+        "txNumber": 28,
+        "gasUsed": 512742,
+        "txHash": "0xe3705b9498eb97a79baa2f532bf1be38cf7fba0925bb40b01eeb8d62d6ea6006"
+      },
+      {
+        "txNumber": 29,
+        "gasUsed": 512742,
+        "txHash": "0x9f82ff4059f651c62c4d4db7d75225068d6cdd82e17fd10f9f0d4a2cf28b5f1f"
+      },
+      {
+        "txNumber": 30,
+        "gasUsed": 511239,
+        "txHash": "0x67b08ac8485db90ad6ced3cf68aca0bc438333bf3e22233d6cae02989f6816d3"
+      },
+      {
+        "txNumber": 31,
+        "gasUsed": 512742,
+        "txHash": "0xbf6ba53aa8e208b41c30a4500ca63cec02585bcb08915e6a6d65e45ca1ddb28d"
+      },
+      {
+        "txNumber": 32,
+        "gasUsed": 512742,
+        "txHash": "0x27d357a327030d6a3404790eaa91831f1bab0ae215a8f105ab3b63598390ce9c"
+      },
+      {
+        "txNumber": 33,
+        "gasUsed": 512742,
+        "txHash": "0xf2ed95987fbd01cd73f2afa5b485d020ebb46b60b5259db408d1aa864ff30d5e"
+      },
+      {
+        "txNumber": 34,
+        "gasUsed": 512742,
+        "txHash": "0xba7b77b0ad483167144a17deaf7aa363d022fd0346a84c3795e65d8af69d2457"
+      },
+      {
+        "txNumber": 35,
+        "gasUsed": 511239,
+        "txHash": "0x47f71b662d49205d87d00dd7630346b4db463d48c6082e67f4e728bd67a8e066"
+      },
+      {
+        "txNumber": 36,
+        "gasUsed": 512742,
+        "txHash": "0xfa295d3d047d1b66a573bf9afd1b068935797bc1911003f036a20f141c155fb4"
+      },
+      {
+        "txNumber": 37,
+        "gasUsed": 512742,
+        "txHash": "0x993de8c187e7d99e386b8e8331114e6f8f810968b6f67cb864309ff712ad3cf1"
+      },
+      {
+        "txNumber": 38,
+        "gasUsed": 512742,
+        "txHash": "0xb6c69a5c13d630bc18cb32ed10f889ae8022095488ec0307670a27183bf501e4"
+      },
+      {
+        "txNumber": 39,
+        "gasUsed": 512742,
+        "txHash": "0x79e10dfc9a35229f37dc36508ef248b5cc9f5386a78983790b119f8eec940989"
+      },
+      {
+        "txNumber": 40,
+        "gasUsed": 511239,
+        "txHash": "0xbd4b7e5e5eaebd917a0fef95cbbc5d9be269e20843d128f931739d105ad8fd33"
+      },
+      {
+        "txNumber": 41,
+        "gasUsed": 512742,
+        "txHash": "0x457693e8257eb68d5e45f562ca75a66e160e313f93d96599c47416adabf64019"
+      },
+      {
+        "txNumber": 42,
+        "gasUsed": 512742,
+        "txHash": "0xa66fa5d1baf45f02a32fbcda1745b260f1c918f497f6469cd967bcf7dc92b0e9"
+      },
+      {
+        "txNumber": 43,
+        "gasUsed": 512742,
+        "txHash": "0x3e6f3cb2fbab4cce6ddf4d4f070da87da2ff92cfb4a26c45a9eedcb303c1d082"
+      },
+      {
+        "txNumber": 44,
+        "gasUsed": 511239,
+        "txHash": "0x355554c11e3968176abd04af2b2bbeb191a7429b226011e124a0c1e033cc0bbf"
+      },
+      {
+        "txNumber": 45,
+        "gasUsed": 512742,
+        "txHash": "0x7484c320d823a3537d4e68e5b3aee82df0ff969c42e1ebda6bc96124c49fd299"
+      },
+      {
+        "txNumber": 46,
+        "gasUsed": 512742,
+        "txHash": "0x9caf80445a54a49d535fa4a7f597c982d317879bbf5e83c10f13fe4118acd8f8"
+      },
+      {
+        "txNumber": 47,
+        "gasUsed": 511239,
+        "txHash": "0x2510270e5a19c27310fee2b09d9be06b4b65f6686dc6310c1756e187e3a86b2b"
+      },
+      {
+        "txNumber": 48,
+        "gasUsed": 512742,
+        "txHash": "0x4962463469997bee6f25b53fefa4b5f37d246d2e13156d41e62036e78dc3e940"
+      },
+      {
+        "txNumber": 49,
+        "gasUsed": 512742,
+        "txHash": "0x160d8cef1b248dfa1121850c7b68f671202ecc14540f8879f0c807ca28773840"
+      },
+      {
+        "txNumber": 50,
+        "gasUsed": 512742,
+        "txHash": "0x0990cbb53778431ef644ec38b91012de708b8c239cce20f186c8efded9c58b9b"
+      },
+      {
+        "txNumber": 51,
+        "gasUsed": 512742,
+        "txHash": "0x5ad05b0f7f94aac8869d6278a8002e645ec772c47a379e755a4b5b6470895169"
+      },
+      {
+        "txNumber": 52,
+        "gasUsed": 511239,
+        "txHash": "0x6b773d07cff957f02ff12cda23189c3f9227c6fb6939f9fa91b638b8703a7df2"
+      },
+      {
+        "txNumber": 53,
+        "gasUsed": 512742,
+        "txHash": "0x47b185fd55e54820f623be478046e149ea4a58b44444b94fe179969205255888"
+      },
+      {
+        "txNumber": 54,
+        "gasUsed": 512742,
+        "txHash": "0x851d6e5284d34f9bb99ceba8d13fe8054030523fb679e9d6d78a4f667dcb577d"
+      },
+      {
+        "txNumber": 55,
+        "gasUsed": 512742,
+        "txHash": "0x4a725a8d1583c3576db8c70dba8d9cf759c596956ea475a726e77afabfbe11b2"
+      },
+      {
+        "txNumber": 56,
+        "gasUsed": 511239,
+        "txHash": "0x957da287b83ea698785b0e37ede9c678c44a155c5ac4249c09dcfc5d1fe8f0f1"
+      },
+      {
+        "txNumber": 57,
+        "gasUsed": 512742,
+        "txHash": "0xfc6f17e1325f67379393d1c60de735d38d827835f33242baf53a02ba39faa24b"
+      },
+      {
+        "txNumber": 58,
+        "gasUsed": 512742,
+        "txHash": "0x9b1bb2a26544624a1372f8df8900ee461783b81fe9e81fb83b02e6a870377a71"
+      },
+      {
+        "txNumber": 59,
+        "gasUsed": 512742,
+        "txHash": "0x754cbecb5fbfa4d5599d9dc9bd0072d9396ae1ffc961febc680a91cda867a9ba"
+      },
+      {
+        "txNumber": 60,
+        "gasUsed": 512742,
+        "txHash": "0xbf4aac8c20d6894bd070c23170e557886d47d49ebbf5ff5d5ea268456335ff85"
+      },
+      {
+        "txNumber": 61,
+        "gasUsed": 511239,
+        "txHash": "0x84e16b48fa1c9d03b0ad71dd61f46e1d89095b7a8ec7ced8fc83e1468cc82e36"
+      },
+      {
+        "txNumber": 62,
+        "gasUsed": 512742,
+        "txHash": "0xccf8efef7d5158c61de577a5431cfa60c843d141f950ae7bb33448184a9474a7"
+      },
+      {
+        "txNumber": 63,
+        "gasUsed": 512742,
+        "txHash": "0xc1adc288081d3dbbf12d1d47bd0e35db9a93d6f12190ace1033fc62b5adfe383"
+      },
+      {
+        "txNumber": 64,
+        "gasUsed": 512742,
+        "txHash": "0xb82cd4995004953005a1bd0f55fd1809a6c86f6e95c332c8b48405af17b32484"
+      },
+      {
+        "txNumber": 65,
+        "gasUsed": 511239,
+        "txHash": "0x2f370e8d124cd1a4cc0b9f8d8821f0e026b338d5efad6fda4824062b478fe40c"
+      },
+      {
+        "txNumber": 66,
+        "gasUsed": 512742,
+        "txHash": "0x861f4655861e5104cec3663858708e2ed3edf616ce2baf3441829185d40b851d"
+      },
+      {
+        "txNumber": 67,
+        "gasUsed": 512742,
+        "txHash": "0x4313a92741d9381145656e0726f5b7720a5468610558096b780878303c9bd240"
+      },
+      {
+        "txNumber": 68,
+        "gasUsed": 512742,
+        "txHash": "0x99c5575ba7850f6306abe00082ccc61d4b0e58056b5bd71e22c11a8ce0832e8c"
+      },
+      {
+        "txNumber": 69,
+        "gasUsed": 512742,
+        "txHash": "0x41e57778002f31bd7313b8076248b92248b8f3dbf336068d916191399ad05e11"
+      },
+      {
+        "txNumber": 70,
+        "gasUsed": 512742,
+        "txHash": "0xcd200211bd66c7e56db8866b1a6f22b05ca369e756eceff718bf4f9447584ee2"
+      },
+      {
+        "txNumber": 71,
+        "gasUsed": 512742,
+        "txHash": "0x6ca1e64648618c620a13b0578da864a7f245b643a764586ea3e8d0d6f45b052f"
+      },
+      {
+        "txNumber": 72,
+        "gasUsed": 512742,
+        "txHash": "0xfb1dfd28a524219b58d4787433ecf80169ee77307f4abd03a37b78696c3abb56"
+      },
+      {
+        "txNumber": 73,
+        "gasUsed": 511239,
+        "txHash": "0xb2985b45741040f66014633c2ffd3187c7daab9835b3af09ee8074c9165fdaf4"
+      },
+      {
+        "txNumber": 74,
+        "gasUsed": 512742,
+        "txHash": "0x0f8cfa62156be2d3c528eb0ce1d02c10a645b71dafdfa7e0e69c0c8f4e70b16b"
+      },
+      {
+        "txNumber": 75,
+        "gasUsed": 512742,
+        "txHash": "0x1a60ee18a587d0b16b063b033be4050d25b1057b7235b8347a71ac5727b62a64"
+      },
+      {
+        "txNumber": 76,
+        "gasUsed": 512742,
+        "txHash": "0x8c93b586958a8c7e72bdd4a32ed1026a5917071f553fcecc4cd6b1054275f0cc"
+      },
+      {
+        "txNumber": 77,
+        "gasUsed": 512742,
+        "txHash": "0x38e84d6e087f59e9528b8bdf217fd99c907f3e7a8c7cacba13c7f884171e1eff"
+      },
+      {
+        "txNumber": 78,
+        "gasUsed": 512742,
+        "txHash": "0x7d201563bd7c04e91b2ac3ba309b8bfb69bebe7a8d9edf1958eb6bb43c092dd8"
+      },
+      {
+        "txNumber": 79,
+        "gasUsed": 512742,
+        "txHash": "0x90086933b19f2d3ba24232f655857027052d5c3ee68288294e162d2b3d091fa5"
+      },
+      {
+        "txNumber": 80,
+        "gasUsed": 512742,
+        "txHash": "0xa599066edc10fd3816b72820477548814316840dd823e8869ef67c11f9fff579"
+      },
+      {
+        "txNumber": 81,
+        "gasUsed": 511239,
+        "txHash": "0xa542b076f11c92a619c200aa5f780fa94a04b9755d55e1bf1eedbfdc9042da59"
+      },
+      {
+        "txNumber": 82,
+        "gasUsed": 512742,
+        "txHash": "0x3a2ff01b32b2e35ffb3a93a026d86f5a6f31b14dd65538ba2c8840803f6940f1"
+      },
+      {
+        "txNumber": 83,
+        "gasUsed": 512742,
+        "txHash": "0x05b70606fea48c1e28d974b7045252d4cb174f65564c0dd6d4443eea93cd3931"
+      },
+      {
+        "txNumber": 84,
+        "gasUsed": 512742,
+        "txHash": "0x7a3a8ff4dbbaf9d6e5813a8c4074ac83a34c2bf0792762268e9080898a0c6494"
+      },
+      {
+        "txNumber": 85,
+        "gasUsed": 511239,
+        "txHash": "0x7355eb1800f0e26232104ff4c44743210a895db0073d4507b8545070ecaa2224"
+      },
+      {
+        "txNumber": 86,
+        "gasUsed": 512742,
+        "txHash": "0x233633cbd0096cf301f99de82186d9096431788a03e6ce16392236e5b40b820d"
+      },
+      {
+        "txNumber": 87,
+        "gasUsed": 512742,
+        "txHash": "0x93a60a36ada1eabb15559f89c94d37e1a2fdbf2af326371c79ad415b5efd6322"
+      },
+      {
+        "txNumber": 88,
+        "gasUsed": 512742,
+        "txHash": "0xf5dffdc6bcf255a3060b0212cc4e90fd45290488c5d856a3e74cb98179e068ee"
+      },
+      {
+        "txNumber": 89,
+        "gasUsed": 511239,
+        "txHash": "0x1f727424018e512c0c91cd8ef92185e7bb078b367c1660fe75e278feba97aa5c"
+      },
+      {
+        "txNumber": 90,
+        "gasUsed": 512742,
+        "txHash": "0x031ef0cb83d123cb81a5839e6e4b18c9e74a9f1e18cf904ce4bbbdf901dcdaaf"
+      },
+      {
+        "txNumber": 91,
+        "gasUsed": 512742,
+        "txHash": "0xf270c12afaed013243601750973131a9adc51f50a84df673aefc00cd16469502"
+      },
+      {
+        "txNumber": 92,
+        "gasUsed": 512742,
+        "txHash": "0xcc46bcaff1a35281da23f33f98c25dcbea08d888bec42890951a0724888bddcc"
+      },
+      {
+        "txNumber": 93,
+        "gasUsed": 512742,
+        "txHash": "0xf7a248f491443a3e02b9df7a42f4162a3f125e3cdacbd327d0b803fafed4cb7d"
+      },
+      {
+        "txNumber": 94,
+        "gasUsed": 511239,
+        "txHash": "0xda508c7dba46d9469661830b139abc8a89366a968462b06b6278fa570550f579"
+      },
+      {
+        "txNumber": 95,
+        "gasUsed": 512742,
+        "txHash": "0x2e10342644fa336b295686a7eb34dd145c57641dce5de77f4f49295452aca410"
+      },
+      {
+        "txNumber": 96,
+        "gasUsed": 512742,
+        "txHash": "0x8a7dcc63b73118f07dc43c6b5c49cc9fe34e288a06c4a9ab141ddca461466759"
+      },
+      {
+        "txNumber": 97,
+        "gasUsed": 512742,
+        "txHash": "0xfe085d3929ed1dd4f31f470bf148ed6907e39cb52440d4140495c9d27944e187"
+      },
+      {
+        "txNumber": 98,
+        "gasUsed": 511239,
+        "txHash": "0x3f2dbede6ac6801c337517a54c6400a9cc64bfad55154779d2a73982e84f38f0"
+      },
+      {
+        "txNumber": 99,
+        "gasUsed": 512742,
+        "txHash": "0x2a5710d4a0abe1b9ce2f8ee0af29363df354726d3bf94b762402e4d94435010e"
+      },
+      {
+        "txNumber": 100,
+        "gasUsed": 511239,
+        "txHash": "0xef49de45aefdea5e72040af6962d34973db3967dcf3eba34be20d254dc26b649"
+      }
+    ],
+    "totalGas": 51241503,
+    "avgGas": 512415.03
   }
 }

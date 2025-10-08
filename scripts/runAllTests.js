@@ -32,9 +32,12 @@ async function runResponseTimeTests() {
   const drone = new ethers.Contract(droneAddress, droneJson.abi, wallet);
   const policy = new ethers.Contract(policyAddress, policyJson.abi, wallet);
 
-  const levels = [0, 1, 2, 3];
-  const txCounts = Array.from({ length: 20 }, (_, i) => i + 1);
-  const repetitions = 10;
+  const levels = process.env.RESPONSE_TIME_LEVELS
+    ? process.env.RESPONSE_TIME_LEVELS.split(',').map(l => parseInt(l.trim()))
+    : [0, 1, 2, 3];
+  const maxTx = parseInt(process.env.RESPONSE_TIME_MAX_TX) || 20;
+  const txCounts = Array.from({ length: maxTx }, (_, i) => i + 1);
+  const repetitions = parseInt(process.env.RESPONSE_TIME_REPETITIONS) || 10;
 
   const results = {
     level0: [],
@@ -134,8 +137,10 @@ async function runGasConsumptionTests() {
   const drone = new ethers.Contract(droneAddress, droneJson.abi, wallet);
   const policy = new ethers.Contract(policyAddress, policyJson.abi, wallet);
 
-  const levels = [0, 1, 2, 3];
-  const totalTransactions = 2000;
+  const levels = process.env.GAS_TEST_LEVELS
+    ? process.env.GAS_TEST_LEVELS.split(',').map(l => parseInt(l.trim()))
+    : [0, 1, 2, 3];
+  const totalTransactions = parseInt(process.env.GAS_TEST_TRANSACTIONS) || 2000;
 
   const results = {
     level0: { transactions: [], totalGas: 0, avgGas: 0 },
@@ -183,11 +188,13 @@ async function runGasConsumptionTests() {
       }
     }
 
-    results[`level${level}`].avgGas = results[`level${level}`].totalGas / results[`level${level}`].transactions.length;
+    if (results[`level${level}`].transactions.length > 0) {
+      results[`level${level}`].avgGas = results[`level${level}`].totalGas / results[`level${level}`].transactions.length;
+    }
 
     console.log(`\nLevel ${level} completed:`);
     console.log(`  Total Gas: ${results[`level${level}`].totalGas}`);
-    console.log(`  Average Gas: ${results[`level${level}`].avgGas.toFixed(2)}`);
+    console.log(`  Average Gas: ${results[`level${level}`].avgGas ? results[`level${level}`].avgGas.toFixed(2) : 'N/A'}`);
   }
 
   const outputPath = path.join(__dirname, "../test-results/gasConsumption.json");
@@ -219,6 +226,12 @@ async function generateExcel() {
   // Response Time Sheets
   for (let level = 0; level <= 3; level++) {
     const levelData = responseTimeData[`level${level}`];
+
+    if (!levelData || levelData.length === 0) {
+      console.log(`  Warning: No response time data for Level ${level}`);
+      continue;
+    }
+
     const organized = {};
 
     levelData.forEach((item) => {
@@ -247,12 +260,16 @@ async function generateExcel() {
 
   for (let level = 0; level <= 3; level++) {
     const levelGas = gasData[`level${level}`];
-    gasSheetData.push([
-      `Level ${level}`,
-      levelGas.transactions.length,
-      levelGas.totalGas,
-      levelGas.avgGas.toFixed(2)
-    ]);
+    if (levelGas && levelGas.transactions && levelGas.transactions.length > 0) {
+      gasSheetData.push([
+        `Level ${level}`,
+        levelGas.transactions.length,
+        levelGas.totalGas,
+        levelGas.avgGas ? levelGas.avgGas.toFixed(2) : 'N/A'
+      ]);
+    } else {
+      gasSheetData.push([`Level ${level}`, 0, 0, 'N/A']);
+    }
   }
 
   const gasWorksheet = XLSX.utils.aoa_to_sheet(gasSheetData);
@@ -261,6 +278,12 @@ async function generateExcel() {
   // Detailed Gas Data
   for (let level = 0; level <= 3; level++) {
     const levelGas = gasData[`level${level}`];
+
+    if (!levelGas || !levelGas.transactions || levelGas.transactions.length === 0) {
+      console.log(`  Warning: No gas consumption data for Level ${level}`);
+      continue;
+    }
+
     const detailedData = [];
     detailedData.push(["Transaction #", "Gas Used", "Transaction Hash"]);
 

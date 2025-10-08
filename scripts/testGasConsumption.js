@@ -43,7 +43,9 @@ async function main() {
   const policy = new ethers.Contract(policyAddress, policyJson.abi, wallet);
 
   // Test parameters
-  const levels = [0, 1, 2, 3];
+  const levels = process.env.GAS_TEST_LEVELS
+    ? process.env.GAS_TEST_LEVELS.split(',').map(l => parseInt(l.trim()))
+    : [0, 1, 2, 3];
   const totalTransactions = parseInt(process.env.GAS_TEST_TRANSACTIONS) || 2000;
 
   const results = {

@@ -35,7 +35,9 @@ async function main() {
   const policy = new ethers.Contract(policyAddress, policyJson.abi, wallet);
 
   // Test parameters
-  const levels = [0, 1, 2, 3];
+  const levels = process.env.RESPONSE_TIME_LEVELS
+    ? process.env.RESPONSE_TIME_LEVELS.split(',').map(l => parseInt(l.trim()))
+    : [0, 1, 2, 3];
   const maxTx = parseInt(process.env.RESPONSE_TIME_MAX_TX) || 20;
   const txCounts = Array.from({ length: maxTx }, (_, i) => i + 1);
   const repetitions = parseInt(process.env.RESPONSE_TIME_REPETITIONS) || 10;
